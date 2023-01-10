@@ -47,7 +47,10 @@ Date : 10 January 2023
  
 # <a href="https://www.mediafire.com/file/psc9tggforf50uk/gecko-v2-bypass_shell.php/file">Gecko v2 Bypass</a>
 <img src="https://imgur.com/MV6777I.png" alt="beruangsalju profile">
-  
+
+# <a href="https://www.mediafire.com/file/yt3aayedn3o2r4j/hi-bypass_shell.php/file">HaxorIsland Bypass</a>
+<img src="https://imgur.com/hPf4QVH.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/g0rd3xuid9dpppf/haxorshell_shell.php/file">HaxorShell</a>
 <img src="https://imgur.com/2TSMpD0.png" alt="beruangsalju profile">
 
