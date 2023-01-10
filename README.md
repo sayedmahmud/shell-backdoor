@@ -109,9 +109,6 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/z8kstuh2csr7sop/UnknownSec-bypass_shell.php/file">UnknownSec Bypass</a>
 <img src="https://imgur.com/62InxIn.png" alt="beruangsalju profile">
   
-# <a href="https://www.mediafire.com/file/e3pdhtmvmifkzm7/wso-4.2.5_shell.php/file">WSO-4.2.5</a>
-<img src="https://imgur.com/K4PAR3c.png" alt="beruangsalju profile">
-
 # <a href="https://www.mediafire.com/file/2qnv79b3wf7nv56/wso-2.5_shell.php/file">WSO-2.5</a>
 <img src="https://imgur.com/ock8yH5.png" alt="beruangsalju profile">
   
@@ -124,6 +121,12 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/yufpq8ms8kmbkny/wso-3.0_shell.php/file">WSO-3.0</a>
 <img src="https://imgur.com/PnvE5xI.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/e3pdhtmvmifkzm7/wso-4.2.5_shell.php/file">WSO-4.2.5</a>
+<img src="https://imgur.com/K4PAR3c.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/on2zrghec8q705x/wso-4.2.6-bypass_shell.php/file">WSO-4.2.6 Bypass</a> 
+<img src="https://imgur.com/zLgsl0n.png" alt="beruangsalju profile">
+  
 # <a href="https://www.mediafire.com/file/s6kgtq9i0xqklh8/cvd-bypass_shell.php/file">WSO bypass</a>
 <img src="https://imgur.com/XV53zev.png" alt="beruangsalju profile">
   
