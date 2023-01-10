@@ -68,3 +68,7 @@ Date : 10 January 2023
 
 # <a href="https://www.mediafire.com/file/s6kgtq9i0xqklh8/cvd-bypass_shell.php/file">WSO bypass</a>
 <img src="https://imgur.com/XV53zev.png" alt="beruangsalju profile">
+  
+# <a href="https://www.mediafire.com/file/r9pgo17mrgabdxx/wsoxenc-bypass_shell.php/file">WSOX ENC Bypass</a>
+<img src="https://imgur.com/A8LrzB2.png" alt="beruangsalju profile">
+
