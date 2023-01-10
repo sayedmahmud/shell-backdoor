@@ -72,6 +72,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/k5e1i535o2talt8/omest_shell.aspx/file">Omest Aspx Shell</a> ( Windows )
 <img src="https://imgur.com/1c9KnKh.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/bguofnxllahzwpd/omestpriv8-V1_minishell.php/file">Priv8 M3M3Q SH3LL v 1.8.7</a>
+<img src="https://imgur.com/7en997g.png" alt="beruangsalju profile">
+  
 # <a href="https://www.mediafire.com/file/ol95m5804ecudjx/devil-bypass_shell.php/file">Priv8 Shell Bypass</a>
 <img src="https://imgur.com/fJnl6o9.png" alt="beruangsalju profile">
 
