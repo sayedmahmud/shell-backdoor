@@ -97,6 +97,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/ma0fjtnvp7jpchd/sfm-bypass_shell.php/file">Simple File Manager Bypass</a>
 <img src="https://imgur.com/uiB4HT6.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/ksyi3i9ooz8rfmp/ssi_shell.shtml/file">SSI</a> ( SHTML )
+<img src="https://imgur.com/VjtcwsO.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/z8kstuh2csr7sop/UnknownSec-bypass_shell.php/file">UnknownSec Bypass</a>
 <img src="https://imgur.com/62InxIn.png" alt="beruangsalju profile">
   
