@@ -35,6 +35,9 @@ Date : 10 January 2023
 
 # <a href="https://www.mediafire.com/file/sqqcs37r9vzjhpn/dihanhaxor_shell.php/file">DihanHaxor</a>
 <img src="https://imgur.com/20Fv1Y0.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/yyaodd8mm0drfjp/digicorp_shell.php/file">DigiCorp</a>
+<img src="https://imgur.com/ock8yH5.png" alt="beruangsalju profile">
   
 # <a href="https://www.mediafire.com/file/g0rd3xuid9dpppf/haxorshell_shell.php/file">HaxorShell</a>
 <img src="https://imgur.com/2TSMpD0.png" alt="beruangsalju profile">
