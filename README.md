@@ -135,3 +135,7 @@ Date : 10 January 2023
 
 # <a href="https://www.mediafire.com/file/tncvo3de76heybr/wso2018_shell.php/file">WSO SHELL 2018 Bypass</a> 
 <img src="https://imgur.com/JppwII5.png" alt="beruangsalju profile">
+
+# <a href="">0day</a> 
+<img src="https://i.ibb.co/0mDkDxk/Screenshot-2023-04-04-18-20-40-1366x768.png" alt="beruangsalju profile">
+
