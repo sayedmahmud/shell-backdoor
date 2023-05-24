@@ -137,5 +137,5 @@ Date : 10 January 2023
 <img src="https://imgur.com/JppwII5.png" alt="beruangsalju profile">
 
 # <a href="">0day</a> 
-<img src="https://i.ibb.co/jzGqTmS/2023-05-25-06-00.png" alt="beruangsalju profile">
+<img src="https://i.imgur.com/bPh2d3A.png" alt="beruangsalju profile">
 
