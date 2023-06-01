@@ -121,6 +121,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/yufpq8ms8kmbkny/wso-3.0_shell.php/file">WSO-3.0</a>
 <img src="https://imgur.com/PnvE5xI.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/qutwd1687une4n1/wso4.2.3.php/file">WSO-4.2.3</a>
+<img src="https://i.imgur.com/ZowXK8M.png" alt="beruangsalju profile">
+  
 # <a href="https://www.mediafire.com/file/e3pdhtmvmifkzm7/wso-4.2.5_shell.php/file">WSO-4.2.5</a>
 <img src="https://imgur.com/K4PAR3c.png" alt="beruangsalju profile">
 
