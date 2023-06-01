@@ -143,5 +143,5 @@ Date : 10 January 2023
 <img src="https://i.imgur.com/bPh2d3A.png" alt="beruangsalju profile">
   
 # <a href="https://www.mediafire.com/file/anu6xgiglcnrz2x/wso2023.php/file">WSO SHELL 2023</a> 
-<img src="https://imgur.com/iTQFQZV" alt="beruangsalju profile">
+<img src="https://imgur.com/iTQFQZV.png" alt="beruangsalju profile">
 
