@@ -113,6 +113,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/aoj9kwhaoa1xgxu/mws-bypass_shell.php/file">Miyachung v1.1 Bypass</a>
 <img src="https://imgur.com/s6e1S9o.png" alt="beruangsalju profile">
   
+# <a href="https://www.mediafire.com/file/op92knvyuehsw1g/marijuana.php/file">Marijuana</a>
+<img src="https://i.imgur.com/4IItknz.png" alt="beruangsalju profile">
+  
 # <a href="https://www.mediafire.com/file/k5e1i535o2talt8/omest_shell.aspx/file">Omest Aspx Shell</a> ( Windows )
 <img src="https://imgur.com/1c9KnKh.png" alt="beruangsalju profile">
 
