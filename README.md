@@ -65,6 +65,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/yyaodd8mm0drfjp/digicorp_shell.php/file">DigiCorp</a>
 <img src="https://imgur.com/SBacFYV.png" alt="beruangsalju profile">
  
+# <a href="https://www.mediafire.com/file/qgm1s3jib12pg1z/ecchi_bypass.php/file">Ecchi Bypass</a>
+<img src="https://i.imgur.com/KsgYPxe.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/awp5cctr75qedz8/fbi_shell.php/file">Federal Bureau of Investigation</a>
 <img src="https://imgur.com/XlHNpBt.png" alt="beruangsalju profile">
 
