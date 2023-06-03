@@ -92,6 +92,12 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/tckqhcxkfor171z/indoxploit-v1.php/file">IndoXploit-v1</a>
 <img src="https://i.imgur.com/HMe5dkZ.png" alt="beruangsalju profile">
   
+# <a href="https://www.mediafire.com/file/nhhp9d5qgwqg5q8/indoxploit-v2.php/file">IndoXploit-v2</a>
+<img src="https://i.imgur.com/7Fwr5k8.png" alt="beruangsalju profile">
+  
+# <a href="https://www.mediafire.com/file/zmtxyetqjbk7vfv/indoxploit-v3.php/file">IndoXploit-v3</a>
+<img src="https://i.imgur.com/jyPmHFT.png" alt="beruangsalju profile">
+  
 # <a href="https://www.mediafire.com/file/l4nn9vm1qqgogww/omestpriv8-V2_minishell.php/file">.: M 1 N 1 :.</a>
 <img src="https://imgur.com/J7RqIMu.png" alt="beruangsalju profile">
   
