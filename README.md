@@ -119,6 +119,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/k5e1i535o2talt8/omest_shell.aspx/file">Omest Aspx Shell</a> ( Windows )
 <img src="https://imgur.com/1c9KnKh.png" alt="beruangsalju profile">
 
+  # <a href="https://www.mediafire.com/file/xmnd4i0hulqakek/0byt3.php/file">0byt3</a>
+<img src="https://i.imgur.com/AFW9UzR.png" alt="beruangsalju profile">
+  
 # <a href="https://www.mediafire.com/file/slpg9cm69b0gwgj/pwn_shell.php/file">p0wny</a>
 <img src="https://imgur.com/QHro0dL.png" alt="beruangsalju profile">
   
