@@ -11,6 +11,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">AK-74</a>
 <img src="https://i.imgur.com/BuzRpD8.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/g6i9rhenkcv8apr/an0nmini.php/file">AK-74</a>
+<img src="https://i.imgur.com/5aYJd1W.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/qv97adxdb23ld8q/alfa_shell.php/file">Alfa Solevisible</a> 
 <img src="https://imgur.com/MlSmd7R.png" alt="beruangsalju profile">
 
