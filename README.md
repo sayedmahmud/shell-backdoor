@@ -43,6 +43,9 @@ Date : 10 January 2023
 
 # <a href="https://www.mediafire.com/file/xh1kbec48fza1jb/BoBoiBoy-bypass_shell.php/file">BoBoiBoy Bypass</a> 
 <img src="https://imgur.com/ABabb1j.png" alt="beruangsalju profile">
+	
+# <a href="https://www.mediafire.com/file/ckzfz4a39dghngp/boff.php/file">Boff 1.0</a> 
+<img src="https://i.imgur.com/AnLDQ1p.png" alt="beruangsalju profile">
   
 # <a href="https://www.mediafire.com/file/6poo03utd1lcr7u/con7ext-v2.php/file">Con7ext v.2</a>
 <img src="https://imgur.com/IEZQnwm.png" alt="beruangsalju profile">
