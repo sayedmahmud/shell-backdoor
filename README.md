@@ -122,6 +122,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/qvk9hn9xa047ikx/k2ll33d.php/file">k2ll33d</a>
 <img src="https://i.imgur.com/J4QJF0K.png" alt="beruangsalju profile">
 	
+# <a href="https://www.mediafire.com/file/kmh8r2xgelbtp7k/khalid.php/file">khalid</a>
+<img src="https://i.imgur.com/bjYOK7t.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/l4nn9vm1qqgogww/omestpriv8-V2_minishell.php/file">.: M 1 N 1 :.</a>
 <img src="https://imgur.com/J7RqIMu.png" alt="beruangsalju profile">
   
