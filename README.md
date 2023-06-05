@@ -71,6 +71,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/cyuah3de5rc0258/ecchi-cmd_bypass.php/file">Ecchi-cmd Bypass</a>
 <img src="https://i.imgur.com/Thj1Itq.png" alt="beruangsalju profile">
 	
+# <a href="https://www.mediafire.com/file/tgkmd3lg97txx4e/exp1337.php/file">Exploit1337</a>
+<img src="https://i.imgur.com/9E666Lz.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/awp5cctr75qedz8/fbi_shell.php/file">Federal Bureau of Investigation</a>
 <img src="https://imgur.com/XlHNpBt.png" alt="beruangsalju profile">
 
@@ -161,6 +164,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/ksyi3i9ooz8rfmp/ssi_shell.shtml/file">SSI</a> ( SHTML )
 <img src="https://imgur.com/VjtcwsO.png" alt="beruangsalju profile">
 
+	# <a href="https://www.mediafire.com/file/3ak2plgf4k07jxn/shortcut.php/file">shor7cut </a>
+<img src="https://i.imgur.com/Ncha9AF.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/viizjs2wqsu880h/troll_shell.php/file">TR0LL1N9</a> 
 <img src="https://imgur.com/kBCu1zl.png" alt="beruangsalju profile">
 
