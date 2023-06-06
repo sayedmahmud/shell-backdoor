@@ -74,6 +74,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/yyaodd8mm0drfjp/digicorp_shell.php/file">DigiCorp</a>
 <img src="https://imgur.com/SBacFYV.png" alt="beruangsalju profile">
  
+# <a href="https://www.mediafire.com/file/bs6jbrkuwpl6xce/dragon.php/file">Dragon Xshell Bypass</a>
+<img src="https://i.imgur.com/0qJGhe0.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/qgm1s3jib12pg1z/ecchi_bypass.php/file">Ecchi Bypass</a>
 <img src="https://i.imgur.com/KsgYPxe.png" alt="beruangsalju profile">
 	
@@ -113,6 +116,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/t4znve3qlqwsmif/hexid-bypass_shell.php/file">Hexid Bypass</a>
 <img src="https://imgur.com/0x1ekVC.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/9e0flpkp3o4q393/hac.php/file">Hac4All</a>
+<img src="https://i.imgur.com/zTAizsw.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/tckqhcxkfor171z/indoxploit-v1.php/file">IndoXploit-v1</a>
 <img src="https://i.imgur.com/HMe5dkZ.png" alt="beruangsalju profile">
   
@@ -160,7 +166,10 @@ Date : 10 January 2023
 
   # <a href="https://www.mediafire.com/file/xmnd4i0hulqakek/0byt3.php/file">0byt3</a>
 <img src="https://i.imgur.com/AFW9UzR.png" alt="beruangsalju profile">
-  
+	
+    # <a href="https://www.mediafire.com/file/4i2rjy3nsxp8v2q/0x.php/file">0x</a>
+<img src="https://i.imgur.com/2HxELsr.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/slpg9cm69b0gwgj/pwn_shell.php/file">p0wny</a>
 <img src="https://imgur.com/QHro0dL.png" alt="beruangsalju profile">
   
@@ -202,6 +211,9 @@ Date : 10 January 2023
   
 # <a href="https://www.mediafire.com/file/vwpt4vyo2o12wn3/UnknownSec.php/file">UnknownSec Shell</a>
 <img src="https://i.imgur.com/hBjgDRW.png" alt="beruangsalju profile">
+	
+# <a href="https://www.mediafire.com/file/w5k4qdx606j5abb/uks403.php/file">UnknownSec Bypass 403</a>
+<img src="https://i.imgur.com/V0c8mMM.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/ya2dmm7lb55ud9k/wso-2.2.0.php/file">WS0-2.2.0</a>
 <img src="https://i.imgur.com/VITznl8.png" alt="beruangsalju profile">
