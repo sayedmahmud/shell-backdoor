@@ -261,4 +261,4 @@ Date : 10 January 2023
 <img src="https://i.imgur.com/fkAWBaB.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/uc6b2sx6zw3ciar/403.php/file">403 FORBIDDEN SHELL BYPASS</a> 
-<img src="https://i.imgur.com/fkAWBaB.png" alt="beruangsalju profile">
+<img src="https://i.imgur.com/nsKzWeb.jpg" alt="beruangsalju profile">
