@@ -167,7 +167,7 @@ Date : 10 January 2023
   # <a href="https://www.mediafire.com/file/xmnd4i0hulqakek/0byt3.php/file">0byt3</a>
 <img src="https://i.imgur.com/AFW9UzR.png" alt="beruangsalju profile">
 	
-    # <a href="https://www.mediafire.com/file/4i2rjy3nsxp8v2q/0x.php/file">0x</a>
+# <a href="https://www.mediafire.com/file/4i2rjy3nsxp8v2q/0x.php/file">0x</a>
 <img src="https://i.imgur.com/2HxELsr.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/slpg9cm69b0gwgj/pwn_shell.php/file">p0wny</a>
