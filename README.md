@@ -20,6 +20,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/ifif9440aktao2k/anon.php/file">AnonSec Team</a>
 <img src="https://i.imgur.com/TSwnBEz.png" alt="beruangsalju profile">
 	
+# <a href="https://www.mediafire.com/file/auzfydbif0472od/aex.php/file">AEX</a>
+<img src="https://i.imgur.com/tGaIuYm.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/qv97adxdb23ld8q/alfa_shell.php/file">Alfa Solevisible</a> 
 <img src="https://imgur.com/MlSmd7R.png" alt="beruangsalju profile">
 
@@ -46,6 +49,9 @@ Date : 10 January 2023
 	
 # <a href="https://www.mediafire.com/file/ckzfz4a39dghngp/boff.php/file">Boff 1.0</a> 
 <img src="https://i.imgur.com/AnLDQ1p.png" alt="beruangsalju profile">
+	
+# <a href="https://www.mediafire.com/file/9dkh2l3zucst92m/boffmax.php/file">BoffMax 1.0</a> 
+<img src="https://i.imgur.com/MdogLCW.png" alt="beruangsalju profile">
   
 # <a href="https://www.mediafire.com/file/6poo03utd1lcr7u/con7ext-v2.php/file">Con7ext v.2</a>
 <img src="https://imgur.com/IEZQnwm.png" alt="beruangsalju profile">
@@ -125,6 +131,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/kmh8r2xgelbtp7k/khalid.php/file">khalid</a>
 <img src="https://i.imgur.com/bjYOK7t.png" alt="beruangsalju profile">
 	
+# <a href="https://www.mediafire.com/file/3hhpro7sx8e9234/kms.php/file">kumasia </a>
+<img src="https://i.imgur.com/Id4vDAX.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/l4nn9vm1qqgogww/omestpriv8-V2_minishell.php/file">.: M 1 N 1 :.</a>
 <img src="https://imgur.com/J7RqIMu.png" alt="beruangsalju profile">
   
@@ -185,6 +194,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/viizjs2wqsu880h/troll_shell.php/file">TR0LL1N9</a> 
 <img src="https://imgur.com/kBCu1zl.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/7q80z25zrusy2o8/tatsumi.php/file">Tatsumi</a> 
+<img src="https://i.imgur.com/ucayVxg.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/z8kstuh2csr7sop/UnknownSec-bypass_shell.php/file">UnknownSec Bypass</a>
 <img src="https://imgur.com/62InxIn.png" alt="beruangsalju profile">
   
@@ -246,4 +258,7 @@ Date : 10 January 2023
 <img src="https://i.imgur.com/mflx93G.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/ef2eouclw5imwgs/wso-mini.php/file">WSO MINISHELL PRIVATE 2022</a> 
+<img src="https://i.imgur.com/fkAWBaB.png" alt="beruangsalju profile">
+	
+# <a href="https://www.mediafire.com/file/uc6b2sx6zw3ciar/403.php/file">403 FORBIDDEN SHELL BYPASS</a> 
 <img src="https://i.imgur.com/fkAWBaB.png" alt="beruangsalju profile">
