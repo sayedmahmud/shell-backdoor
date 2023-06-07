@@ -1,9 +1,6 @@
 SHELL BACKDOOR DOWNLOADER BY OMEST
   
 Date : 10 January 2023
-</a>
-# NOTE : most webshell collection in https://github.com/backdoorhub/shell-backdoor-list | https://github.com/xl7dev/WebShell | https://github.com/tennc/webshell
- </a>
 <div align="center">
 	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=00FFFF&center=true&vCenter=true&width=440&lines=+Shell+Downloader" /></h1>
 <div align="center"> 
