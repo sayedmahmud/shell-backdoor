@@ -68,6 +68,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/a8sx4leb4eeiwft/chemod.php/file">Chemod_zrd404 Mini Shell</a>
 <img src="https://i.imgur.com/gRl8D5X.jpg" alt="beruangsalju profile">
   
+# <a href="https://www.mediafire.com/file/e3j49azkhvswdjm/chitoge.php/file">Chitoge</a>
+<img src="https://i.imgur.com/pAA74Ac.jpg" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/sqqcs37r9vzjhpn/dihanhaxor_shell.php/file">DihanHaxor</a>
 <img src="https://imgur.com/20Fv1Y0.png" alt="beruangsalju profile">
 
@@ -100,7 +103,10 @@ Date : 10 January 2023
 
 # <a href="https://www.mediafire.com/file/ufmo26c5uzswk2y/gecko-v3.php/file">Gecko v3 Bypass</a>
 <img src="https://i.imgur.com/0K6aF5n.png" alt="beruangsalju profile">
-  
+ 
+# <a href="https://www.mediafire.com/file/0k6drfbyxy202e1/simple.php/file"> GaLeRz </a>
+<img src="https://i.imgur.com/vOwu21u.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/k5vkn7tl0273in4/rebirthhaxor_minishell.php/file">.: h 4 x 0 r :.</a>
 <img src="https://imgur.com/92qmEXz.png" alt="beruangsalju profile">
 
@@ -140,6 +146,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/3hhpro7sx8e9234/kms.php/file">kumasia </a>
 <img src="https://i.imgur.com/Id4vDAX.png" alt="beruangsalju profile">
 	
+# <a href="https://www.mediafire.com/file/f5vydyj5iivbern/kyoshiro.php/file"> Kyoshiro </a>
+<img src="https://i.imgur.com/0Mn7BIW.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/l4nn9vm1qqgogww/omestpriv8-V2_minishell.php/file">.: M 1 N 1 :.</a>
 <img src="https://imgur.com/J7RqIMu.png" alt="beruangsalju profile">
   
@@ -158,6 +167,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/z283hippcxf9vbo/7mind.php/file">Mini 7mind Bypass</a>
 <img src="https://i.imgur.com/dMNXEJc.png" alt="beruangsalju profile">
   
+# <a href="https://www.mediafire.com/file/wp9cu76o7754ghc/megumin.php/file">Megumin</a>
+<img src="https://i.imgur.com/bcK0d5R.jpg" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/wk5n4kq4ld8y0e9/nulz.php/file">Nulz Bypass</a>
 <img src="https://i.imgur.com/UvZjElS.png" alt="beruangsalju profile">
 	
@@ -173,6 +185,12 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/hqrs7b4d82jhv2l/orvx.php/file">ORVX</a>
 <img src="https://i.imgur.com/uQUmoFD.png" alt="beruangsalju profile">
 	
+# <a href="https://www.mediafire.com/file/46r91ksl59q2wg7/overlord.php/file">OverLord</a>
+<img src="https://i.imgur.com/RfjF6ZZ.png" alt="beruangsalju profile">
+	
+# <a href="https://www.mediafire.com/file/ob805i90c6c9anl/oppai.php/file">Oppai</a>
+<img src="https://i.imgur.com/iZkPi3k.jpg" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/slpg9cm69b0gwgj/pwn_shell.php/file">p0wny</a>
 <img src="https://imgur.com/QHro0dL.png" alt="beruangsalju profile">
   
@@ -182,6 +200,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/ol95m5804ecudjx/devil-bypass_shell.php/file">Priv8 Shell Bypass</a>
 <img src="https://imgur.com/fJnl6o9.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/xghfm1maq9shdxz/pc.php/file">PenucuriCode</a>
+<img src="https://i.imgur.com/xyMERXX.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/uxwiquifhjf4tel/rebirthhaxorV1_shell.php/file">.: R E B I R T H :.</a>
 <img src="https://imgur.com/uo6Mgvl.png" alt="beruangsalju profile">
 
@@ -286,3 +307,7 @@ Date : 10 January 2023
 
 # <a href="https://www.mediafire.com/file/fgyxmowuqbw92vr/404.php/file">404 Not Found</a> 
 <img src="https://i.imgur.com/OvTi0mL.png" alt="beruangsalju profile">
+	
+# <a href="https://www.mediafire.com/file/18uq3okfng7os64/zerotwo.php/file">ZeroTwo</a> 
+<img src="https://i.imgur.com/OaPU1mz.png" alt="beruangsalju profile">
+	
