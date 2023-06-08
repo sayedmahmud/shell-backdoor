@@ -76,7 +76,7 @@ Date : 10 January 2023
 <img src="https://i.imgur.com/pAA74Ac.jpg" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/iaz3u5vzh0c1low/ckt.php/file">CowoKerensTeam</a>
-<img src="hhttps://i.imgur.com/V2ukjr6.png" alt="beruangsalju profile">
+<img src="https://i.imgur.com/V2ukjr6.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/sqqcs37r9vzjhpn/dihanhaxor_shell.php/file">DihanHaxor</a>
 <img src="https://imgur.com/20Fv1Y0.png" alt="beruangsalju profile">
