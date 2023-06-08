@@ -260,6 +260,9 @@ Date : 10 January 2023
 
 # <a href="https://www.mediafire.com/file/7q80z25zrusy2o8/tatsumi.php/file">Tatsumi</a> 
 <img src="https://i.imgur.com/ucayVxg.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/mel2oraflm0z9pj/terserah.php/file">Terserah</a> 
+<img src="https://i.imgur.com/ZcbTymA.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/z8kstuh2csr7sop/UnknownSec-bypass_shell.php/file">UnknownSec Bypass</a>
 <img src="https://imgur.com/62InxIn.png" alt="beruangsalju profile">
