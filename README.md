@@ -308,6 +308,9 @@ Date : 10 January 2023
 
 # <a href="https://www.mediafire.com/file/fgyxmowuqbw92vr/404.php/file">404 Not Found</a> 
 <img src="https://i.imgur.com/OvTi0mL.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/l66xarwccs8s5xh/injection.php/file"> 1N73CTION </a> 
+<img src="https://i.imgur.com/hZ0uVAl.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/18uq3okfng7os64/zerotwo.php/file">ZeroTwo</a> 
 <img src="https://i.imgur.com/OaPU1mz.png" alt="beruangsalju profile">
