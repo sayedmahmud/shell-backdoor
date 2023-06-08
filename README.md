@@ -54,6 +54,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/9dkh2l3zucst92m/boffmax.php/file">BoffMax 1.0</a> 
 <img src="https://i.imgur.com/MdogLCW.png" alt="beruangsalju profile">
   
+# <a href="https://www.mediafire.com/file/3nkt99qqkeyyg1d/berandal.php/file">Berandal</a> 
+<img src="https://i.imgur.com/vX1tW70.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/6poo03utd1lcr7u/con7ext-v2.php/file">Con7ext v.2</a>
 <img src="https://imgur.com/IEZQnwm.png" alt="beruangsalju profile">
 
@@ -150,6 +153,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/f5vydyj5iivbern/kyoshiro.php/file"> Kyoshiro </a>
 <img src="https://i.imgur.com/0Mn7BIW.png" alt="beruangsalju profile">
 	
+# <a href="https://www.mediafire.com/file/tkk70trt0bulrty/keisatsu.php/file"> Keisatsu </a>
+<img src="https://i.imgur.com/RhFZTjI.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/l4nn9vm1qqgogww/omestpriv8-V2_minishell.php/file">.: M 1 N 1 :.</a>
 <img src="https://imgur.com/J7RqIMu.png" alt="beruangsalju profile">
   
@@ -170,9 +176,24 @@ Date : 10 January 2023
   
 # <a href="https://www.mediafire.com/file/wp9cu76o7754ghc/megumin.php/file">Megumin</a>
 <img src="https://i.imgur.com/bcK0d5R.jpg" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/gulgqxfgs7y563u/megumin_mini.php/file">Megumin Minishell</a>
+<img src="https://i.imgur.com/SfMTZ3p.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/1khtprbxdw5mn6f/baha.php/file">Mr.B4h4</a>
+<img src="https://i.imgur.com/zzJmFnn.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/wk5n4kq4ld8y0e9/nulz.php/file">Nulz Bypass</a>
 <img src="https://i.imgur.com/UvZjElS.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/2nd1tbq95ovr91h/noname.php/file">NoName</a>
+<img src="https://i.imgur.com/DV4thqv.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/cp77szp37wvj9rd/nabilah.php/file">Nabilah jkt48</a>
+<img src="https://i.imgur.com/DIcwdfv.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/mllg9tjb3o30zsv/ninja.php/file">Ninja Bypass</a>
+<img src="https://i.imgur.com/PwUQEth.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/k5e1i535o2talt8/omest_shell.aspx/file">Omest Aspx Shell</a> ( Windows )
 <img src="https://imgur.com/1c9KnKh.png" alt="beruangsalju profile">
