@@ -9,6 +9,9 @@ Date : 10 January 2023
 # <a href="https://www.mediafire.com/file/882sddgbo0rv8q6/anonghost-bypass_shell.php/file">AnonGhost Bypass</a>
 <img src="https://imgur.com/ZBxBGXu.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/0jwr4qowq1h1ep5/anonghost_bypass.php/file">AnonGhost Bypass ( Uploader )</a>
+<img src="https://i.imgur.com/OuYdN84.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">AK-74</a>
 <img src="https://i.imgur.com/BuzRpD8.png" alt="beruangsalju profile">
 
@@ -56,10 +59,16 @@ Date : 10 January 2023
   
 # <a href="https://www.mediafire.com/file/3nkt99qqkeyyg1d/berandal.php/file">Berandal</a> 
 <img src="https://i.imgur.com/vX1tW70.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/pheor9sq0urwiq7/black-ghost-shell-v1.php/file">Black-Ghost Bypass</a> 
+<img src="https://i.imgur.com/2XJ5OLY.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/6poo03utd1lcr7u/con7ext-v2.php/file">Con7ext v.2</a>
 <img src="https://imgur.com/IEZQnwm.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/uoagwrz2vpodvs4/con7ext_mini.php/file">Con7ext Mini</a>
+<img src="https://i.imgur.com/2N5Qvi0.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/0q5a2sseqhmcm68/cgipro-bypass_shell.php/file">Cgi Pro v1.0 Bypass</a>
 <img src="https://imgur.com/sfFBeXY.png" alt="beruangsalju profile">
 
@@ -158,6 +167,9 @@ Date : 10 January 2023
 	
 # <a href="https://www.mediafire.com/file/tkk70trt0bulrty/keisatsu.php/file"> Keisatsu </a>
 <img src="https://i.imgur.com/RhFZTjI.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/c4km5m6o0s4b9g6/kaizen-mini-shell.php/file"> Kaizen mini shell </a>
+<img src="https://i.imgur.com/tAu9X6a.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/l4nn9vm1qqgogww/omestpriv8-V2_minishell.php/file">.: M 1 N 1 :.</a>
 <img src="https://imgur.com/J7RqIMu.png" alt="beruangsalju profile">
@@ -230,6 +242,9 @@ Date : 10 January 2023
 
 # <a href="https://www.mediafire.com/file/xghfm1maq9shdxz/pc.php/file">PenucuriCode</a>
 <img src="https://i.imgur.com/xyMERXX.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/dlkrjsrmmh3qqn7/proc.php/file">proc_open command</a>
+<img src="https://i.imgur.com/DukVj1N.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/uxwiquifhjf4tel/rebirthhaxorV1_shell.php/file">.: R E B I R T H :.</a>
 <img src="https://imgur.com/uo6Mgvl.png" alt="beruangsalju profile">
@@ -332,6 +347,9 @@ Date : 10 January 2023
 
 # <a href="https://www.mediafire.com/file/84y52s1s45xmued/wsocgi.php/file">WSO CGI</a> 
 <img src="https://i.imgur.com/WO0hYd6.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/vm7lzk9vudhgwmr/wp-settings.php/file">WP-SETTINGS ( auto generate shell )</a> 
+<img src="https://i.imgur.com/b8nJl04.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/uc6b2sx6zw3ciar/403.php/file">403 FORBIDDEN SHELL BYPASS</a> 
 <img src="https://i.imgur.com/nsKzWeb.jpg" alt="beruangsalju profile">
