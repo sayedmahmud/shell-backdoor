@@ -211,6 +211,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/cp77szp37wvj9rd/nabilah.php/file">Nabilah jkt48</a>
 <img src="https://i.imgur.com/DIcwdfv.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/tay9lgi1id6pe7r/nginx.php/file">Nginx 1337</a>
+<img src="https://i.imgur.com/NAHGEWT.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/mllg9tjb3o30zsv/ninja.php/file">Ninja Bypass</a>
 <img src="https://i.imgur.com/PwUQEth.png" alt="beruangsalju profile">
 	
@@ -270,6 +273,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 	
 # <a href="https://www.mediafire.com/file/gcj6b1riq4det1s/sbh.php/file"> SurabayaBlackHat </a>
 <img src="https://i.imgur.com/0iQLj65.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/yqdzvscl6uaxca4/security007.php/file"> Security007 </a>
+<img src="https://i.imgur.com/rYkI8hB.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/viizjs2wqsu880h/troll_shell.php/file">TR0LL1N9</a> 
 <img src="https://imgur.com/kBCu1zl.png" alt="beruangsalju profile">
