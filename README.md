@@ -328,6 +328,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/yufpq8ms8kmbkny/wso-3.0_shell.php/file">WSO-3.0</a>
 <img src="https://imgur.com/PnvE5xI.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/7yrp434xdaa6d2p/wso4.0.5.php/file">WSO-4.0.5</a>
+<img src="https://i.imgur.com/wI5bRjI.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/qutwd1687une4n1/wso4.2.3.php/file">WSO-4.2.3</a>
 <img src="https://i.imgur.com/ZowXK8M.png" alt="beruangsalju profile">
   
@@ -367,6 +370,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/84y52s1s45xmued/wsocgi.php/file">WSO CGI</a> 
 <img src="https://i.imgur.com/WO0hYd6.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/6nbesxbf6hgzlo8/wso404.php/file">WSO 404</a> 
+<img src="https://i.imgur.com/hxfknHE.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/vm7lzk9vudhgwmr/wp-settings.php/file">WP-SETTINGS ( auto generate shell )</a> 
 <img src="https://i.imgur.com/b8nJl04.png" alt="beruangsalju profile">
 	
