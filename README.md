@@ -102,6 +102,12 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 	
 # <a href="https://www.mediafire.com/file/cyuah3de5rc0258/ecchi-cmd_bypass.php/file">Ecchi-cmd Bypass</a>
 <img src="https://i.imgur.com/Thj1Itq.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/he9z41tz78u2s7g/ecchi403.php/file">Ecchi 403 bypass range-function </a>
+<img src="https://i.imgur.com/dQuS5PB.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/apqgih49nwbzcz8/ecchi-bypass-litespeed.php/file">Ecchi Bypass Litespeed </a>
+<img src="https://i.imgur.com/ZvzSVIq.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/tgkmd3lg97txx4e/exp1337.php/file">Exploit1337</a>
 <img src="https://i.imgur.com/9E666Lz.png" alt="beruangsalju profile">
@@ -133,7 +139,7 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/g0rd3xuid9dpppf/haxorshell_shell.php/file">HaxorShell</a>
 <img src="https://imgur.com/2TSMpD0.png" alt="beruangsalju profile">
 
-# <a href="https://www.mediafire.com/file/lb3ge10ehcq1o53/hero-bypass_shell.php/file">Hero Bypass</a>
+# <a href="https://www.mediafire.com/file/lb3ge10ehcq1o53/hero-bypass_shell.php/file">Hero Bypass </a>
 <img src="https://imgur.com/6xL6wEZ.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/t4znve3qlqwsmif/hexid-bypass_shell.php/file">Hexid Bypass</a>
