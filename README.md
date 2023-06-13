@@ -252,6 +252,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/2n8ru6zrhlxvdyl/momos.php/file">Momos Minishell</a>
 <img src="https://i.imgur.com/nI3kecM.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/4c66om43sm34k0j/madspot.php/file">Madspot</a>
+<img src="https://i.imgur.com/PFBIS7x.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/wk5n4kq4ld8y0e9/nulz.php/file">Nulz Bypass</a>
 <img src="https://i.imgur.com/UvZjElS.png" alt="beruangsalju profile">
@@ -319,7 +322,10 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/uxwiquifhjf4tel/rebirthhaxorV1_shell.php/file">.: R E B I R T H :.</a>
 <img src="https://imgur.com/uo6Mgvl.png" alt="beruangsalju profile">
 
- # <a href="https://www.mediafire.com/file/cjeapao91pq2vft/r57.php/file">.:r57:.</a>
+ # <a href="https://www.mediafire.com/file/jogbkv22aqo7kbj/IRC-r57.php/file">.:r57:.</a>
+<img src="https://i.imgur.com/OkCSSkq.png" alt="beruangsalju profile">
+	
+ # <a href="https://www.mediafire.com/file/cjeapao91pq2vft/r57.php/file">.:r57 classic:.</a>
 <img src="https://i.imgur.com/yYS89YW.png" alt="beruangsalju profile">
   
 # <a href="https://www.mediafire.com/file/4dbcii2fi3luedy/r58.php/file">.:r58:.</a>
