@@ -72,6 +72,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/52nujgew5sweuv5/bunglonm1n1.php/file">bunglon m1n1 1.0</a> 
 <img src="https://i.imgur.com/ntAjsDc.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/i0lc8i4gzux3r5b/bajax.php/file">Bajax</a> 
+<img src="https://i.imgur.com/EGAoQN5.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/6poo03utd1lcr7u/con7ext-v2.php/file">Con7ext v.2</a>
 <img src="https://imgur.com/IEZQnwm.png" alt="beruangsalju profile">
