@@ -64,6 +64,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/pheor9sq0urwiq7/black-ghost-shell-v1.php/file">Black-Ghost Bypass</a> 
 <img src="https://i.imgur.com/2XJ5OLY.png" alt="beruangsalju profile">
 	
+# <a href="https://www.mediafire.com/file/w6ga137kfczn47d/batman.php/file">B4TM4N SH3LL</a> 
+<img src="https://i.imgur.com/8hIQgO4.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/6poo03utd1lcr7u/con7ext-v2.php/file">Con7ext v.2</a>
 <img src="https://imgur.com/IEZQnwm.png" alt="beruangsalju profile">
 
@@ -114,6 +117,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/apqgih49nwbzcz8/ecchi-bypass-litespeed.php/file">Ecchi Bypass Litespeed </a>
 <img src="https://i.imgur.com/ZvzSVIq.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/idiblvd718a2gjj/hiddenpost.php/file">Ecchi ( hidden post ) </a>
+<img src="https://i.imgur.com/RKBXvxH.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/tgkmd3lg97txx4e/exp1337.php/file">Exploit1337</a>
 <img src="https://i.imgur.com/9E666Lz.png" alt="beruangsalju profile">
