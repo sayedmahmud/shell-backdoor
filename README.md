@@ -69,6 +69,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 	
 # <a href="https://www.mediafire.com/file/w6ga137kfczn47d/batman.php/file">B4TM4N SH3LL</a> 
 <img src="https://i.imgur.com/8hIQgO4.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/52nujgew5sweuv5/bunglonm1n1.php/file">bunglon m1n1 1.0</a> 
+<img src="https://i.imgur.com/ntAjsDc.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/6poo03utd1lcr7u/con7ext-v2.php/file">Con7ext v.2</a>
 <img src="https://imgur.com/IEZQnwm.png" alt="beruangsalju profile">
@@ -138,6 +141,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/505qlfxhp90ijjr/file.php/file">File Manager</a>
 <img src="https://i.imgur.com/m0v2grv.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/bqkdq6um6vd38kg/FuckeeTeam.php/file"> Fuckee Team Web Shell </a>
+<img src="https://i.imgur.com/U5nRiHz.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/ctdduqf9xk7k3ph/gecko-v1-bypass_shell.php/file">Gecko v1 Bypass</a>
 <img src="https://imgur.com/iLaKtvd.png" alt="beruangsalju profile">
@@ -237,6 +243,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/1khtprbxdw5mn6f/baha.php/file">Mr.B4h4</a>
 <img src="https://i.imgur.com/zzJmFnn.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/2n8ru6zrhlxvdyl/momos.php/file">Momos Minishell</a>
+<img src="https://i.imgur.com/nI3kecM.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/wk5n4kq4ld8y0e9/nulz.php/file">Nulz Bypass</a>
 <img src="https://i.imgur.com/UvZjElS.png" alt="beruangsalju profile">
@@ -255,6 +264,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/xrt8pgvoqoui8h0/navir.php/file">Navir</a>
 <img src="https://i.imgur.com/d5MDmLe.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/tou8oj60r626wlk/Negat1ve.php/file">Negat1ve mini shell</a>
+<img src="https://i.imgur.com/yWXwN6x.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/k5e1i535o2talt8/omest_shell.aspx/file">Omest Aspx Shell</a> ( Windows )
 <img src="https://imgur.com/1c9KnKh.png" alt="beruangsalju profile">
