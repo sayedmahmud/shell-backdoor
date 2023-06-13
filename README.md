@@ -27,6 +27,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 	
 # <a href="https://www.mediafire.com/file/v9ydhu0t95n7pnr/anonimus.php/file">AnonimUs</a>
 <img src="https://i.imgur.com/QzGtBNY.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/6pdwil5hxqd12jh/angel.php/file">Angel</a>
+<img src="https://i.imgur.com/yTPnCmO.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/qv97adxdb23ld8q/alfa_shell.php/file">Alfa Solevisible</a> 
 <img src="https://imgur.com/MlSmd7R.png" alt="beruangsalju profile">
@@ -129,7 +132,13 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/0zc7qe7r4jxh5sb/fmp-bypass_shell.php/file">File Manager PHP Bypass</a>
 <img src="https://imgur.com/FMkULRj.png" alt="beruangsalju profile">
-  
+ 
+# <a href="https://www.mediafire.com/file/ovrrfk5tnhqywke/ftp.php/file">FTP mini shell</a>
+<img src="https://i.imgur.com/9QRY2b8.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/505qlfxhp90ijjr/file.php/file">File Manager</a>
+<img src="https://i.imgur.com/m0v2grv.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/ctdduqf9xk7k3ph/gecko-v1-bypass_shell.php/file">Gecko v1 Bypass</a>
 <img src="https://imgur.com/iLaKtvd.png" alt="beruangsalju profile">
  
@@ -141,6 +150,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
  
 # <a href="https://www.mediafire.com/file/0k6drfbyxy202e1/simple.php/file"> GaLeRz </a>
 <img src="https://i.imgur.com/vOwu21u.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/8tq4cbap440xh76/ghost.php/file"> Ghost </a>
+<img src="https://i.imgur.com/6piVmLI.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/k5vkn7tl0273in4/rebirthhaxor_minishell.php/file">.: h 4 x 0 r :.</a>
 <img src="https://imgur.com/92qmEXz.png" alt="beruangsalju profile">
@@ -240,6 +252,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 	
 # <a href="https://www.mediafire.com/file/mllg9tjb3o30zsv/ninja.php/file">Ninja Bypass</a>
 <img src="https://i.imgur.com/PwUQEth.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/xrt8pgvoqoui8h0/navir.php/file">Navir</a>
+<img src="https://i.imgur.com/d5MDmLe.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/k5e1i535o2talt8/omest_shell.aspx/file">Omest Aspx Shell</a> ( Windows )
 <img src="https://imgur.com/1c9KnKh.png" alt="beruangsalju profile">
@@ -274,8 +289,11 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/dlkrjsrmmh3qqn7/proc.php/file">proc_open command</a>
 <img src="https://i.imgur.com/DukVj1N.png" alt="beruangsalju profile">
 
-# <a href="https://www.mediafire.com/file/5e7j0bbr4v9nzig/PastiGanteng.php/file">proc_open command</a>
+# <a href="https://www.mediafire.com/file/5e7j0bbr4v9nzig/PastiGanteng.php/file">PastiGanteng</a>
 <img src="https://i.imgur.com/D9tFpVT.png" alt="beruangsalju profile">
+	
+# <a href="https://www.mediafire.com/file/byntvfaofnmolky/privexs.php/file">PrivEksShell</a>
+<img src="https://i.imgur.com/Ws70ADq.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/uxwiquifhjf4tel/rebirthhaxorV1_shell.php/file">.: R E B I R T H :.</a>
 <img src="https://imgur.com/uo6Mgvl.png" alt="beruangsalju profile">
@@ -306,6 +324,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/tib1i29h10vw4v8/sc0.php/file"> Stupidc0de </a>
 <img src="https://i.imgur.com/9wf96DU.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/ofb4f63ehhwsym8/SmallWeb.php/file"> Small Webshell</a>
+<img src="https://i.imgur.com/xKO5mDW.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/viizjs2wqsu880h/troll_shell.php/file">TR0LL1N9</a> 
 <img src="https://imgur.com/kBCu1zl.png" alt="beruangsalju profile">
@@ -324,6 +345,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 	
 # <a href="https://www.mediafire.com/file/w5k4qdx606j5abb/uks403.php/file">UnknownSec Bypass 403</a>
 <img src="https://i.imgur.com/V0c8mMM.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/saj91rca6xuvxfs/winroot.php/file">winr00t php/asp</a>
+<img src="https://i.imgur.com/VRJZyKE.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/ya2dmm7lb55ud9k/wso-2.2.0.php/file">WS0-2.2.0</a>
 <img src="https://i.imgur.com/VITznl8.png" alt="beruangsalju profile">
