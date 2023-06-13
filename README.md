@@ -222,6 +222,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/c4km5m6o0s4b9g6/kaizen-mini-shell.php/file"> Kaizen mini shell </a>
 <img src="https://i.imgur.com/tAu9X6a.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/g9722b5gky7w56o/hostgator.php/file"> K3RAMA7 ( hostgator bypass ) </a>
+<img src="https://i.imgur.com/sW6P4lZ.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/l4nn9vm1qqgogww/omestpriv8-V2_minishell.php/file">.: M 1 N 1 :.</a>
 <img src="https://imgur.com/J7RqIMu.png" alt="beruangsalju profile">
@@ -457,6 +460,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/4554xoo3fu2d4ln/22xc.php/file">22XC</a> 
 <img src="https://i.imgur.com/8gnFZcl.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/9p9pdreder9oqch/22xcmini.php/file">22XC Mini</a> 
+<img src="https://i.imgur.com/zYr9nbv.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/fgyxmowuqbw92vr/404.php/file">404 Not Found</a> 
 <img src="https://i.imgur.com/OvTi0mL.png" alt="beruangsalju profile">
 
