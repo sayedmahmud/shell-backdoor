@@ -415,6 +415,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/fcyborvzcizxuuz/sadrazam.php/file">sadrazam</a>
 <img src="https://i.imgur.com/73gcBfj.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/q7gfzou7qdwf74m/sx.php/file">SubangXploits</a>
+<img src="https://i.imgur.com/w4jrcoJ.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/viizjs2wqsu880h/troll_shell.php/file">TR0LL1N9</a> 
 <img src="https://imgur.com/kBCu1zl.png" alt="beruangsalju profile">
@@ -424,6 +427,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/mel2oraflm0z9pj/terserah.php/file">Terserah</a> 
 <img src="https://i.imgur.com/ZcbTymA.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/bec6kg2hvko0x0r/tak_terlihat_shell.php/file">Tak Terlihat Shell</a> 
+<img src="https://i.imgur.com/IG6SQyv.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/z8kstuh2csr7sop/UnknownSec-bypass_shell.php/file">UnknownSec Bypass</a>
 <img src="https://imgur.com/62InxIn.png" alt="beruangsalju profile">
@@ -508,6 +514,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/8jjp7vdwbjlt076/wso-priv8-shell.php/file">WSO priv8 v3</a> 
 <img src="https://i.imgur.com/PJdUmdr.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/0rk8d290z6w4dp9/wso-haxor.php/file">WSO h4x0r bypass</a> 
+<img src="https://i.imgur.com/1j569C2.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/vm7lzk9vudhgwmr/wp-settings.php/file">WP-SETTINGS ( auto generate shell )</a> 
 <img src="https://i.imgur.com/b8nJl04.png" alt="beruangsalju profile">
