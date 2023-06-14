@@ -454,6 +454,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/46ub7fcyxzkpag6/sea.php/file">SyRiAn Electronic Army</a>
 <img src="https://i.imgur.com/gUpuzuZ.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/t8kebhclmrut95e/security-exploded.php/file">Security Exploded</a>
+<img src="https://i.imgur.com/q0Rjluv.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/viizjs2wqsu880h/troll_shell.php/file">TR0LL1N9</a> 
 <img src="https://imgur.com/kBCu1zl.png" alt="beruangsalju profile">
