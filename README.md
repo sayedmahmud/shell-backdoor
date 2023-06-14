@@ -93,6 +93,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/sec4ivs071msi8x/blackhat-shell.php/file"> BlackHat Shell</a> 
 <img src="https://i.imgur.com/kTVW9Zc.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/3d6t4i8hs00zs2x/bheh_shell.php/file"> BlackHat Ethical Hacking Shell </a> 
+<img src="https://i.imgur.com/0XoSyWH.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/6poo03utd1lcr7u/con7ext-v2.php/file">Con7ext v.2</a>
 <img src="https://imgur.com/IEZQnwm.png" alt="beruangsalju profile">
