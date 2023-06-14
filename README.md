@@ -90,6 +90,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/ngnwh7g7zxtc5ou/b3c4k.php/file"> b3c4k ( jumping )</a> 
 <img src="https://i.imgur.com/qTI9lG7.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/sec4ivs071msi8x/blackhat-shell.php/file"> BlackHat Shell</a> 
+<img src="https://i.imgur.com/kTVW9Zc.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/6poo03utd1lcr7u/con7ext-v2.php/file">Con7ext v.2</a>
 <img src="https://imgur.com/IEZQnwm.png" alt="beruangsalju profile">
@@ -486,6 +489,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 	
 # <a href="https://www.mediafire.com/file/vm7lzk9vudhgwmr/wp-settings.php/file">WP-SETTINGS ( auto generate shell )</a> 
 <img src="https://i.imgur.com/b8nJl04.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/llbt4f48wqz6hv1/web-console.php/file">Web Console</a> 
+<img src="https://i.imgur.com/HuuLSCw.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/uc6b2sx6zw3ciar/403.php/file">403 FORBIDDEN SHELL BYPASS</a> 
 <img src="https://i.imgur.com/nsKzWeb.jpg" alt="beruangsalju profile">
