@@ -291,6 +291,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/3vs6zxlioqkpvzn/mini-jos.php/file">Mini Php Shell JOS_ALI_JOE </a>
 <img src="https://i.imgur.com/cYc9Cw0.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/ifi10fr1vp91zoj/mini-fm.php/file">Mini File Manager </a>
+<img src="https://i.imgur.com/SDQPvXb.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/wk5n4kq4ld8y0e9/nulz.php/file">Nulz Bypass</a>
 <img src="https://i.imgur.com/UvZjElS.png" alt="beruangsalju profile">
@@ -372,6 +375,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/i53qv2f2s7q6pio/r00t-backdoor.php/file"> r00t backdoor </a>
 <img src="https://i.imgur.com/pGJwRAh.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/zze0mds87oso8v6/rahman.php/file"> RAHMAN X AISYAH SHELL </a>
+<img src="https://i.imgur.com/AVyzhaf.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/ma0fjtnvp7jpchd/sfm-bypass_shell.php/file">Simple File Manager Bypass</a>
 <img src="https://imgur.com/uiB4HT6.png" alt="beruangsalju profile">
@@ -396,6 +402,12 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/rtyr5i91bbe567g/shellizm.php/file">shellizm</a>
 <img src="https://i.imgur.com/TJvO4nu.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/sx42in1hfg3qqg7/shellen.php/file">shellen</a>
+<img src="https://i.imgur.com/ar5taUi.png" alt="beruangsalju profile">
+	
+# <a href="https://www.mediafire.com/file/ip3cm6gipvk2xwg/sa.php/file">Saudi Arabian</a>
+<img src="https://i.imgur.com/eZLIcc9.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/viizjs2wqsu880h/troll_shell.php/file">TR0LL1N9</a> 
 <img src="https://imgur.com/kBCu1zl.png" alt="beruangsalju profile">
