@@ -1,7 +1,7 @@
 <p align="center">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/beruangsalju/shell-backdoor?style=flat">
 <img src="https://img.shields.io/github/forks/beruangsalju/shell-backdoor?color=ivory&style=flat">
-<img src="https://img.shields.io/badge/creator%20-beruangsalju-brown?style=for-the-badge">
+<img src="https://img.shields.io/badge/creator%20-beruangsalju-brown?style=flat">
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fberuangsalju%2Fshell-backdoor&countColor=%23263759">
 SHELL BACKDOOR DOWNLOADER BY OMEST
   
