@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/beruangsalju/shell-backdoor?style=flat">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/beruangsalju/shell-backdoor?color=balck&style=flat">
 <img src="https://img.shields.io/github/forks/beruangsalju/shell-backdoor?color=black&style=flat">
 <img src="https://img.shields.io/badge/creator%20-beruangsalju-black?style=flat">
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fberuangsalju%2Fshell-backdoor&countColor="black">
