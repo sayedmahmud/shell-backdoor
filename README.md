@@ -109,7 +109,10 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/ufxtc1llexbmztm/black-dragon.php/file"> Black-Dragon </a> 
 <img src="https://i.imgur.com/fW6a40G.png" alt="beruangsalju profile">
-	
+
+# <a href="https://www.mediafire.com/file/6z8chcoiecjhc9s/bayz.php/file"> Bayz21 </a> 
+<img src="https://i.imgur.com/h0PFjua.jpg" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/6poo03utd1lcr7u/con7ext-v2.php/file">Con7ext v.2</a>
 <img src="https://imgur.com/IEZQnwm.png" alt="beruangsalju profile">
 
@@ -149,8 +152,11 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/io117h1xslyxbhz/CaZaNoVa163.php/file">CaZaNoVa163</a>
 <img src="https://i.imgur.com/z9rII8P.png" alt="beruangsalju profile">
 
- # <a href="https://www.mediafire.com/file/1ay2cez9tpqhibg/crystal.php/file">Crystal shell 2006-2007</a>
+# <a href="https://www.mediafire.com/file/1ay2cez9tpqhibg/crystal.php/file">Crystal shell 2006-2007</a>
 <img src="https://i.imgur.com/wzQUnn0.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/chbl2468jybqp5j/cw.php/file">CW SHELL</a>
+<img src="https://i.imgur.com/CaXa0SL.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/sqqcs37r9vzjhpn/dihanhaxor_shell.php/file">DihanHaxor</a>
 <img src="https://imgur.com/20Fv1Y0.png" alt="beruangsalju profile">
@@ -191,6 +197,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/8ivh23c1gaenw1b/engineers-security.php/file">Engineers-Security</a>
 <img src="https://i.imgur.com/A8k6OeX.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/hxs47ul06tbv5ju/ex0shell.php/file">ex0</a>
+<img src="https://i.imgur.com/fST5n2N.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/awp5cctr75qedz8/fbi_shell.php/file">Federal Bureau of Investigation</a>
 <img src="https://imgur.com/XlHNpBt.png" alt="beruangsalju profile">
 
@@ -220,7 +229,10 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/8tq4cbap440xh76/ghost.php/file"> Ghost </a>
 <img src="https://i.imgur.com/6piVmLI.png" alt="beruangsalju profile">
-	
+
+# <a href="https://www.mediafire.com/file/xy7229ig80dp3qm/g00nshell-v1.3.php/file"> g00nshell </a>
+<img src="https://i.imgur.com/BjZ6xwr.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/k5vkn7tl0273in4/rebirthhaxor_minishell.php/file">.: h 4 x 0 r :.</a>
 <img src="https://imgur.com/92qmEXz.png" alt="beruangsalju profile">
 
@@ -472,7 +484,13 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/t8kebhclmrut95e/security-exploded.php/file">Security Exploded</a>
 <img src="https://i.imgur.com/q0Rjluv.png" alt="beruangsalju profile">
-	
+
+# <a href="https://www.mediafire.com/file/1kl0f94866u7mf8/shortcutbetakiller.php/file">SHOR7CUT Shell (BETA KILLER)</a>
+<img src="https://i.imgur.com/ehop9in.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/a9lpb0tmnty92ed/security-hacking-crew.php/file">Security Hacking Crew</a>
+<img src="https://i.imgur.com/uMyAXpT.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/viizjs2wqsu880h/troll_shell.php/file">TR0LL1N9</a> 
 <img src="https://imgur.com/kBCu1zl.png" alt="beruangsalju profile">
 
@@ -574,7 +592,10 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/ti76gzzwmpr4ann/foxwso.php/file">WSO Fox</a> 
 <img src="https://i.imgur.com/UddudJZ.png" alt="beruangsalju profile">
-	
+
+# <a href="https://www.mediafire.com/file/prpcjyq5xxiabnp/whoami-mzrp105.php/file">WHO AM I</a> 
+<img src="https://i.imgur.com/1ZeSHwC.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/vm7lzk9vudhgwmr/wp-settings.php/file">WP-SETTINGS ( auto generate shell )</a> 
 <img src="https://i.imgur.com/b8nJl04.png" alt="beruangsalju profile">
 
