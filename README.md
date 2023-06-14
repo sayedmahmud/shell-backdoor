@@ -2,7 +2,7 @@
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/beruangsalju/shell-backdoor?color=black&style=flat">
 <img src="https://img.shields.io/github/forks/beruangsalju/shell-backdoor?color=black&style=flat">
 <img src="https://img.shields.io/badge/creator%20-beruangsalju-black?style=flat">
-<img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/beruangsalju/shell-backdoor?countColor=%&style=flat">
+<img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/beruangsalju/shell-backdoor?color=#000000&style=flat">
 SHELL BACKDOOR DOWNLOADER BY OMEST
   
 Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-black?style=flat&logo=windows&link=https://www.microsoft.com)](https://www.microsoft.com)
