@@ -365,13 +365,16 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/uxwiquifhjf4tel/rebirthhaxorV1_shell.php/file">.: R E B I R T H :.</a>
 <img src="https://imgur.com/uo6Mgvl.png" alt="beruangsalju profile">
 
- # <a href="https://www.mediafire.com/file/jogbkv22aqo7kbj/IRC-r57.php/file">.:r57:.</a>
+# <a href="https://www.mediafire.com/file/wz4plqlfbxzgcnw/r57-low.php/file">r57 1.31</a>
+<img src="https://i.imgur.com/6t24ScS.png" alt="beruangsalju profile">
+	
+# <a href="https://www.mediafire.com/file/cjeapao91pq2vft/r57.php/file">r57 1.50</a>
+<img src="https://i.imgur.com/yYS89YW.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/jogbkv22aqo7kbj/IRC-r57.php/file">r57 3.5</a>
 <img src="https://i.imgur.com/OkCSSkq.png" alt="beruangsalju profile">
 	
- # <a href="https://www.mediafire.com/file/cjeapao91pq2vft/r57.php/file">.:r57 classic:.</a>
-<img src="https://i.imgur.com/yYS89YW.png" alt="beruangsalju profile">
-  
-# <a href="https://www.mediafire.com/file/4dbcii2fi3luedy/r58.php/file">.:r58:.</a>
+# <a href="https://www.mediafire.com/file/4dbcii2fi3luedy/r58.php/file">r58</a>
 <img src="https://i.imgur.com/D8cZUv9.png" alt="beruangsalju profile">
   
 # <a href="https://www.mediafire.com/file/cyhg6oqk4get3vx/rbbd.php/file"> RBBD </a>
