@@ -19,6 +19,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/g6i9rhenkcv8apr/an0nmini.php/file">An0n 3xPloiTeR Shell</a>
 <img src="https://i.imgur.com/5aYJd1W.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/muokb9blmhxj8gs/anon-exploiter-shell.php/file">An0n 3xPloiTeR Shell (2)</a>
+<img src="https://i.imgur.com/l3nB1AI.png" alt="beruangsalju profile">
+	
 # <a href="https://www.mediafire.com/file/ifif9440aktao2k/anon.php/file">AnonSec Team</a>
 <img src="https://i.imgur.com/TSwnBEz.png" alt="beruangsalju profile">
 	
