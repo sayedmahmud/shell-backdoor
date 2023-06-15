@@ -536,6 +536,18 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/w5k4qdx606j5abb/uks403.php/file">UnknownSec Bypass 403</a>
 <img src="https://i.imgur.com/V0c8mMM.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/view/btm15phkui5hdxb/ban.php.jpg/file"> UPLOADER ( inject metadata )</a>
+<img src="https://i.imgur.com/fg1BNju.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/dcpzlp09nsp76b1/haxor.jpg/file"> UPLOADER 2 ( inject metadata )</a>
+<img src="https://i.imgur.com/HRMeBRO.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/ne1y2axtxdkjjnw/upload.php/file"> UPLOADER BYPASS </a>
+<img src="https://i.imgur.com/2a2hVov.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/sf9d2frrfmgelni/uploader.php/file"> UPLOADER BYPASS 2 </a>
+<img src="https://i.imgur.com/QN7Iurq.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/saj91rca6xuvxfs/winroot.php/file">winr00t php/asp</a>
 <img src="https://i.imgur.com/VRJZyKE.png" alt="beruangsalju profile">
 
