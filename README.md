@@ -701,6 +701,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/9zx34lw9ubmi5su/wso2022.php/file">WSO 2022</a> 
 <img src="https://i.imgur.com/dXiBFI9.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/m7wn2wistvk7lo4/wsoindir.php/file">WSO INDIR</a> 
+<img src="https://i.imgur.com/uUCs8ql.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/prpcjyq5xxiabnp/whoami-mzrp105.php/file">WHO AM I</a> 
 <img src="https://i.imgur.com/1ZeSHwC.png" alt="beruangsalju profile">
 
