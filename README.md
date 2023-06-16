@@ -480,7 +480,7 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 <img src="https://i.imgur.com/HSWOujZ.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/5e5vw7xxqah6j14/mrvirus.php/file">PTL-SHELL</a>
-<img src="https://i.imgur.com/tONuvml.png" alt="beruangsalju profile">
+<img src="https://i.imgur.com/idDY0hH.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/uxwiquifhjf4tel/rebirthhaxorV1_shell.php/file">.: R E B I R T H :.</a>
 <img src="https://imgur.com/uo6Mgvl.png" alt="beruangsalju profile">
