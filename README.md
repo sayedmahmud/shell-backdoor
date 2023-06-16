@@ -161,6 +161,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/chbl2468jybqp5j/cw.php/file">CW SHELL</a>
 <img src="https://i.imgur.com/CaXa0SL.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/irilv2mhcilin5a/ctr.php/file">CyberTeamRox</a>
+<img src="https://i.imgur.com/ozem6ce.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/sqqcs37r9vzjhpn/dihanhaxor_shell.php/file">DihanHaxor</a>
 <img src="https://imgur.com/20Fv1Y0.png" alt="beruangsalju profile">
 
@@ -373,7 +376,10 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/8eii88ultz4l2pl/magico.php/file">Magico-Helper </a>
 <img src="https://i.imgur.com/evd1Pq9.png" alt="beruangsalju profile">
-	
+
+# <a href="https://www.mediafire.com/file/m4q4ofdad88f32z/mannu.php/file">Mannu shell </a>
+<img src="https://i.imgur.com/Gs6Q0IC.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/wk5n4kq4ld8y0e9/nulz.php/file">Nulz Bypass</a>
 <img src="https://i.imgur.com/UvZjElS.png" alt="beruangsalju profile">
 
@@ -482,6 +488,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/tib1i29h10vw4v8/sc0.php/file"> Stupidc0de </a>
 <img src="https://i.imgur.com/9wf96DU.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/z7613q7rz2d7asc/stupidc0de.php/file"> Stupidc0de Family Backdoor  </a>
+<img src="https://i.imgur.com/UcLjQFG.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/ofb4f63ehhwsym8/SmallWeb.php/file"> Small Webshell</a>
 <img src="https://i.imgur.com/xKO5mDW.png" alt="beruangsalju profile">
 
@@ -553,6 +562,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/sf9d2frrfmgelni/uploader.php/file"> UPLOADER BYPASS 2 </a>
 <img src="https://i.imgur.com/QN7Iurq.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/779968pymxof0hj/vortex.php/file">Vortex ( SOFT SHELL )</a>
+<img src="https://i.imgur.com/r4CRJsL.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/saj91rca6xuvxfs/winroot.php/file">winr00t php/asp</a>
 <img src="https://i.imgur.com/VRJZyKE.png" alt="beruangsalju profile">
