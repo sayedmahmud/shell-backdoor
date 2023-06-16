@@ -128,6 +128,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/3n86jmzg7irv1ny/backbox.php/file">BackBox Shell</a> 
 <img src="https://i.imgur.com/FLpwt6n.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/up7r6p628bl9r36/bandung6etar.php/file">Bandung6etar</a> 
+<img src="https://i.imgur.com/PAYy6ac.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/6poo03utd1lcr7u/con7ext-v2.php/file">Con7ext v.2</a>
 <img src="https://imgur.com/IEZQnwm.png" alt="beruangsalju profile">
 
@@ -410,6 +413,12 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/m4q4ofdad88f32z/mannu.php/file">Mannu shell </a>
 <img src="https://i.imgur.com/Gs6Q0IC.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/x5zyh2bk1bnwi8j/madruga-shell.php/file">Madruga Shell </a>
+<img src="https://i.imgur.com/GzAb3bV.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/umv6dc2eyav8ghb/menkrep1337.php/file">Menkrep1337 </a>
+<img src="https://i.imgur.com/cR6aGMb.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/wk5n4kq4ld8y0e9/nulz.php/file">Nulz Bypass</a>
 <img src="https://i.imgur.com/UvZjElS.png" alt="beruangsalju profile">
 
@@ -442,7 +451,10 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/xmnd4i0hulqakek/0byt3.php/file">0byt3</a>
 <img src="https://i.imgur.com/AFW9UzR.png" alt="beruangsalju profile">
-	
+
+# <a href="https://www.mediafire.com/file/it3n49rif9q8hi6/0byteV2.php/file">0byt3 v2</a>
+<img src="https://i.imgur.com/7e3Vx3f.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/4i2rjy3nsxp8v2q/0x.php/file">0x</a>
 <img src="https://i.imgur.com/2HxELsr.png" alt="beruangsalju profile">
 	
@@ -718,6 +730,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/2z4thcsprlhhss5/xcode.php/file">X-code Shell Backdoor</a> 
 <img src="https://i.imgur.com/XJ2P7vz.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/jez1mwzwaw7ob7k/z0z.php/file"> xNot_RespondinGx </a> 
+<img src="https://i.imgur.com/Iqc5U7p.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/18uq3okfng7os64/zerotwo.php/file">ZeroTwo</a> 
 <img src="https://i.imgur.com/OaPU1mz.png" alt="beruangsalju profile">
