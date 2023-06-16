@@ -419,6 +419,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/umv6dc2eyav8ghb/menkrep1337.php/file">Menkrep1337 </a>
 <img src="https://i.imgur.com/cR6aGMb.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/ehb61d1qzcba5xm/minipink.php/file">MiniPink </a>
+<img src="https://i.imgur.com/bqJiFn2.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/wk5n4kq4ld8y0e9/nulz.php/file">Nulz Bypass</a>
 <img src="https://i.imgur.com/UvZjElS.png" alt="beruangsalju profile">
 
@@ -628,6 +631,15 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/sf9d2frrfmgelni/uploader.php/file"> UPLOADER BYPASS 2 </a>
 <img src="https://i.imgur.com/QN7Iurq.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/sw93hu8acwmbzeu/up403-sadachil.php/file"> UPLOADER 403 </a>
+<img src="https://i.imgur.com/OKIyVer.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/8hz26812vdxxk57/up404-sadachil.php/file"> UPLOADER 404 </a>
+<img src="https://i.imgur.com/iHo7xUw.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/86ivra5xch5mp90/up500-sadachil.php/file"> UPLOADER 500 </a>
+<img src="https://i.imgur.com/ykKWxqZ.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/779968pymxof0hj/vortex.php/file">Vortex ( SOFT SHELL )</a>
 <img src="https://i.imgur.com/r4CRJsL.png" alt="beruangsalju profile">
