@@ -332,6 +332,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/zpyh35uz7w345a4/lostdc.php/file"> LostDC </a>
 <img src="https://i.imgur.com/oh8Q6CA.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/ei4n7u595ln1njt/litespeed2022.php/file"> LiteSpeed Bypass 2022 </a>
+<img src="https://i.imgur.com/iJTjyjF.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/l4nn9vm1qqgogww/omestpriv8-V2_minishell.php/file">.: M 1 N 1 :.</a>
 <img src="https://imgur.com/J7RqIMu.png" alt="beruangsalju profile">
   
@@ -451,7 +454,10 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 	
 # <a href="https://www.mediafire.com/file/byntvfaofnmolky/privexs.php/file">PrivEksShell</a>
 <img src="https://i.imgur.com/Ws70ADq.png" alt="beruangsalju profile">
-	
+
+# <a href="https://www.mediafire.com/file/fsjlecjliw8h4v5/php7x_bypass_disable_functions.php/file">php 7.x disable_function bypass</a>
+<img src="https://i.imgur.com/HSWOujZ.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/uxwiquifhjf4tel/rebirthhaxorV1_shell.php/file">.: R E B I R T H :.</a>
 <img src="https://imgur.com/uo6Mgvl.png" alt="beruangsalju profile">
 
@@ -542,6 +548,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/kax9v41kxu135qp/sym-bypass.php/file">Symlink Bypass</a>
 <img src="https://i.imgur.com/qOWtIlM.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/85p7pfii7jg2np4/spade.php/file">Spade MiniShell Bypass</a>
+<img src="https://i.imgur.com/do6doDw.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/viizjs2wqsu880h/troll_shell.php/file">TR0LL1N9</a> 
 <img src="https://imgur.com/kBCu1zl.png" alt="beruangsalju profile">
 
@@ -553,7 +562,10 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/bec6kg2hvko0x0r/tak_terlihat_shell.php/file">Tak Terlihat Shell</a> 
 <img src="https://i.imgur.com/IG6SQyv.png" alt="beruangsalju profile">
-	
+
+# <a href="https://www.mediafire.com/file/023xgi1raec5wm3/turkshell.php/file">TurkShell Bypass</a> 
+<img src="https://i.imgur.com/2FR46co.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/z8kstuh2csr7sop/UnknownSec-bypass_shell.php/file">UnknownSec Bypass</a>
 <img src="https://imgur.com/62InxIn.png" alt="beruangsalju profile">
   
