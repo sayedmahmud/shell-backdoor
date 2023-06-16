@@ -53,6 +53,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/xk4ns13f41dllxe/anti-chat.php/file"> Anti chat</a>
 <img src="https://i.imgur.com/s1LLNn8.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/iwtm7mrdvxlanxr/afxshell-demo.php/file"> Affliction X Cyber </a>
+<img src="https://i.imgur.com/Js2A8Qi.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/qv97adxdb23ld8q/alfa_shell.php/file">Alfa Solevisible</a> 
 <img src="https://imgur.com/MlSmd7R.png" alt="beruangsalju profile">
 
