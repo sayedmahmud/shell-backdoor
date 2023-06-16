@@ -551,6 +551,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/z7613q7rz2d7asc/stupidc0de.php/file"> Stupidc0de Family Backdoor  </a>
 <img src="https://i.imgur.com/UcLjQFG.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/fpyzwotesev6y6p/code.php/file"> Stupidc0de 2  </a>
+<img src="https://i.imgur.com/UOhk3zw.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/ofb4f63ehhwsym8/SmallWeb.php/file"> Small Webshell</a>
 <img src="https://i.imgur.com/xKO5mDW.png" alt="beruangsalju profile">
 
