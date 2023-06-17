@@ -172,7 +172,10 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/5q37zbncosunw5e/cylul1.php/file">Cylul007 v1</a>
 <img src="https://i.imgur.com/QO2AhTn.png" alt="beruangsalju profile">
-	
+
+# <a href="https://www.mediafire.com/file/vr80n68pb2gfz4a/cylulv2.php/file">Cylul007 v2</a>
+<img src="https://i.imgur.com/QIshGKC.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/io117h1xslyxbhz/CaZaNoVa163.php/file">CaZaNoVa163</a>
 <img src="https://i.imgur.com/z9rII8P.png" alt="beruangsalju profile">
 
@@ -275,6 +278,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/qzesybq98yg775x/G6.php/file"> G6 Shell </a>
 <img src="https://i.imgur.com/7gVqDWj.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/xbsqa4agbkasfgc/galaupriv8shell.php/file"> Galau Priv8 Shell </a>
+<img src="https://i.imgur.com/x0grVl2.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/k5vkn7tl0273in4/rebirthhaxor_minishell.php/file">.: h 4 x 0 r :.</a>
 <img src="https://imgur.com/92qmEXz.png" alt="beruangsalju profile">
 
@@ -353,6 +359,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/byc448q0xw381zc/knull.php/file"> Knull </a>
 <img src="https://i.imgur.com/HnCZjMX.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/j9kkqltl7rqz0z1/klatencrewshelll.php/file"> KlatenCrewShell </a>
+<img src="https://i.imgur.com/ReaB8eb.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/ju00fhvua9anq20/loaderz.php/file"> Loaderz </a>
 <img src="https://i.imgur.com/3K1Qvcu.png" alt="beruangsalju profile">
 
@@ -427,6 +436,12 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/ehb61d1qzcba5xm/minipink.php/file">MiniPink </a>
 <img src="https://i.imgur.com/bqJiFn2.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/68ox3sosss8wa2b/kct.php/file">Minishell Bypass 403</a>
+<img src="https://i.imgur.com/EipAZUJ.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/6b9qbl62qgjiepk/monalisabypass.php/file">Minishell Bypass Monalisa</a>
+<img src="https://i.imgur.com/i3Z80J7.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/wk5n4kq4ld8y0e9/nulz.php/file">Nulz Bypass</a>
 <img src="https://i.imgur.com/UvZjElS.png" alt="beruangsalju profile">
