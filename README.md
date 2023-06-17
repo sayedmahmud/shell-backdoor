@@ -254,8 +254,11 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/bqkdq6um6vd38kg/FuckeeTeam.php/file"> Fuckee Team Web Shell </a>
 <img src="https://i.imgur.com/U5nRiHz.png" alt="beruangsalju profile">
 
- # <a href="https://www.mediafire.com/file/7rudof1j94d395q/fluxionbypass.php/file"> Flux1on Bypass</a>
+# <a href="https://www.mediafire.com/file/7rudof1j94d395q/fluxionbypass.php/file"> Flux1on Bypass</a>
 <img src="https://i.imgur.com/E3GFT1T.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/kn873m4yp5dpmqv/FX-Backdoor(1.3).php/file"> FierzaXploit 1.3 Bypass</a>
+<img src="https://i.imgur.com/DLosV1K.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/ctdduqf9xk7k3ph/gecko-v1-bypass_shell.php/file">Gecko v1 Bypass</a>
 <img src="https://imgur.com/iLaKtvd.png" alt="beruangsalju profile">
