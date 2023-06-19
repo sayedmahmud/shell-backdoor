@@ -533,6 +533,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/uxwiquifhjf4tel/rebirthhaxorV1_shell.php/file">.: R E B I R T H :.</a>
 <img src="https://imgur.com/uo6Mgvl.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/tgtukivl97bl6zy/r57-1.0.php/file">r57 1.0</a>
+<img src="https://i.imgur.com/u2IdAsz.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/wz4plqlfbxzgcnw/r57-low.php/file">r57 1.31</a>
 <img src="https://i.imgur.com/6t24ScS.png" alt="beruangsalju profile">
 	
