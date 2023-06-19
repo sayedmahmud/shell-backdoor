@@ -308,6 +308,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/p8xi38etfygllq3/hcs.php/file">Hallucination Cyber Shell</a>
 <img src="https://i.imgur.com/AXcmpw1.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/us7i5potvhwk28b/hackcity.php/file">h4ckcity</a>
+<img src="https://i.imgur.com/BIDUGPT.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/tckqhcxkfor171z/indoxploit-v1.php/file">IndoXploit-v1</a>
 <img src="https://i.imgur.com/HMe5dkZ.png" alt="beruangsalju profile">
   
