@@ -647,6 +647,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/023xgi1raec5wm3/turkshell.php/file">TurkShell Bypass</a> 
 <img src="https://i.imgur.com/2FR46co.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/hhg17x0gya1lywm/ths1335.php/file">TermuxHackz Society Team</a> 
+<img src="https://i.imgur.com/TYyGcI8.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/z8kstuh2csr7sop/UnknownSec-bypass_shell.php/file">UnknownSec Bypass</a>
 <img src="https://imgur.com/62InxIn.png" alt="beruangsalju profile">
   
@@ -676,6 +679,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/86ivra5xch5mp90/up500-sadachil.php/file"> UPLOADER 500 </a>
 <img src="https://i.imgur.com/ykKWxqZ.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/uwngt4g6b05cd7q/tuploader.php/file"> UPLOADER ( T-uploader ) </a>
+<img src="https://i.imgur.com/lp2aFbG.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/779968pymxof0hj/vortex.php/file">Vortex ( SOFT SHELL )</a>
 <img src="https://i.imgur.com/r4CRJsL.png" alt="beruangsalju profile">
