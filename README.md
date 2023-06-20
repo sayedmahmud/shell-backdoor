@@ -140,6 +140,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/4721udaujw0frfp/s0.php/file">BlackSeroja</a> 
 <img src="https://i.imgur.com/ymj21zz.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/ycw4kfvu29xvove/backdoor.php/file">BackDoor</a> 
+<img src="https://i.imgur.com/eOPAlIt.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/6poo03utd1lcr7u/con7ext-v2.php/file">Con7ext v.2</a>
 <img src="https://imgur.com/IEZQnwm.png" alt="beruangsalju profile">
 
@@ -263,6 +266,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/kn873m4yp5dpmqv/FX-Backdoor(1.3).php/file"> FierzaXploit 1.3 Bypass</a>
 <img src="https://i.imgur.com/DLosV1K.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/ikwn8fwk5cee2k1/fm1.php/file"> Filemanager</a>
+<img src="https://i.imgur.com/WMFV3BY.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/ctdduqf9xk7k3ph/gecko-v1-bypass_shell.php/file">Gecko v1 Bypass</a>
 <img src="https://imgur.com/iLaKtvd.png" alt="beruangsalju profile">
  
@@ -383,6 +389,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/ei4n7u595ln1njt/litespeed2022.php/file"> LiteSpeed Bypass 2022 </a>
 <img src="https://i.imgur.com/iJTjyjF.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/mxwciflp5cvnoyz/lolz.php/file"> L0LZ666H05T </a>
+<img src="https://i.imgur.com/o5oGCy3.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/l4nn9vm1qqgogww/omestpriv8-V2_minishell.php/file">.: M 1 N 1 :.</a>
 <img src="https://imgur.com/J7RqIMu.png" alt="beruangsalju profile">
   
@@ -454,6 +463,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/qrwnp9sh6f7u6ss/marion001.php/file">Marion001</a>
 <img src="https://i.imgur.com/TdhFv7k.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/kup5vdzxd14xgsl/mini.php/file">Mini Backdoor</a>
+<img src="https://i.imgur.com/ar0hcaG.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/wk5n4kq4ld8y0e9/nulz.php/file">Nulz Bypass</a>
 <img src="https://i.imgur.com/UvZjElS.png" alt="beruangsalju profile">
@@ -535,6 +547,12 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/wogbrmhdkzaf5xf/p4.php/file">Pasir Merah Priv8</a>
 <img src="https://i.imgur.com/nw8GoH8.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/gjcyzt7pxrjugie/PHP+File+Manager+Mini.php/file">PHP File Manager Mini</a>
+<img src="https://i.imgur.com/eSIOFpr.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/osc1c3v3x55b6tl/phpbackdoor.php/file">PHPBackdoor</a>
+<img src="https://i.imgur.com/DmlUIxD.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/uxwiquifhjf4tel/rebirthhaxorV1_shell.php/file">.: R E B I R T H :.</a>
 <img src="https://imgur.com/uo6Mgvl.png" alt="beruangsalju profile">
@@ -640,6 +658,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/3aeg4nrzg6jtk36/Sst-Sheller.php/file">SST Sheller</a>
 <img src="https://i.imgur.com/wsPSr5v.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/2ezfwyshtvjvqze/systemshell.php/file"> System Shell</a>
+<img src="https://i.imgur.com/UPd97Q7.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/viizjs2wqsu880h/troll_shell.php/file">TR0LL1N9</a> 
 <img src="https://imgur.com/kBCu1zl.png" alt="beruangsalju profile">
