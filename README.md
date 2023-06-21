@@ -197,6 +197,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/pah88or2191d20v/cccp.php/file">CCCP Modular</a>
 <img src="https://i.imgur.com/Xg2bomQ.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/b2vgn9qgxygdqw8/cloudflare.php/file">CloudFlare Bypass</a>
+<img src="https://i.imgur.com/B2iAGAV.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/sqqcs37r9vzjhpn/dihanhaxor_shell.php/file">DihanHaxor</a>
 <img src="https://imgur.com/20Fv1Y0.png" alt="beruangsalju profile">
 
@@ -217,6 +220,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/ghyspzwnqkyuhrx/dToolPro.php/file">dToolPro</a>
 <img src="https://i.imgur.com/Mh1XXdp.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/p0wsjllkdglv73j/digiwoll.php/file">DigiWoll Bypass</a>
+<img src="https://i.imgur.com/nCdz0Yr.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/qgm1s3jib12pg1z/ecchi_bypass.php/file">Ecchi Bypass</a>
 <img src="https://i.imgur.com/KsgYPxe.png" alt="beruangsalju profile">
