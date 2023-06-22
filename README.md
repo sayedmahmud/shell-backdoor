@@ -230,6 +230,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/yiryswrum7f6041/domshell.php/file">Domshell</a>
 <img src="https://i.imgur.com/RZg0DQp.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/ajmncs1j0s7us80/dxshell.php/file">Dxshell</a>
+<img src="https://i.imgur.com/tW5eZaf.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/qgm1s3jib12pg1z/ecchi_bypass.php/file">Ecchi Bypass</a>
 <img src="https://i.imgur.com/KsgYPxe.png" alt="beruangsalju profile">
 	
