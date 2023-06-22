@@ -761,6 +761,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/779968pymxof0hj/vortex.php/file">Vortex ( SOFT SHELL )</a>
 <img src="https://i.imgur.com/r4CRJsL.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/0ig28zejsm3gxue/votrshell.php/file">VOTR</a>
+<img src="https://i.imgur.com/eFovd5I.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/saj91rca6xuvxfs/winroot.php/file">winr00t php/asp</a>
 <img src="https://i.imgur.com/VRJZyKE.png" alt="beruangsalju profile">
 
