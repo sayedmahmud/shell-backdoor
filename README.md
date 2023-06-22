@@ -323,6 +323,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/rmt2d4vtw6home5/g.php/file"> Garuda Security Hacker</a>
 <img src="https://i.imgur.com/UNBvoFl.jpg" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/4smqweszhsj7meu/gazashell.php/file"> GaZa</a>
+<img src="https://i.imgur.com/rs2VMDH.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/k5vkn7tl0273in4/rebirthhaxor_minishell.php/file">.: h 4 x 0 r :.</a>
 <img src="https://imgur.com/92qmEXz.png" alt="beruangsalju profile">
 
