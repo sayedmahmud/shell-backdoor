@@ -143,6 +143,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/ycw4kfvu29xvove/backdoor.php/file">BackDoor</a> 
 <img src="https://i.imgur.com/eOPAlIt.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/4vb520l6za0cpo6/berantakan-v-1.2.php/file">Berantakan Bypass</a> 
+<img src="https://i.imgur.com/nZLW7cM.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/6poo03utd1lcr7u/con7ext-v2.php/file">Con7ext v.2</a>
 <img src="https://imgur.com/IEZQnwm.png" alt="beruangsalju profile">
 
@@ -851,3 +854,5 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/68lc5b901vvz074/1945.php/file"> 1945 Shell </a> 
 <img src="https://i.imgur.com/Qd1iUtM.png" alt="beruangsalju profile">
 	
+# <a href="https://www.mediafire.com/file/sm4vqlu2byfyka8/error.php/file"> 3RR0R</a> 
+<img src="https://i.imgur.com/OTDD2YH.jpg" alt="beruangsalju profile">
