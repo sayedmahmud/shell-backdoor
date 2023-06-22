@@ -784,8 +784,11 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/on2zrghec8q705x/wso-4.2.6-bypass_shell.php/file">WSO-4.2.6 Bypass</a> 
 <img src="https://imgur.com/zLgsl0n.png" alt="beruangsalju profile">
-  
-# <a href="https://www.mediafire.com/file/s6kgtq9i0xqklh8/cvd-bypass_shell.php/file">WSO bypass</a>
+
+# <a href="https://www.mediafire.com/file/l2xzr4h840q1cbn/wso.5.1.4.php/file">WSO-5.1.4</a>
+<img src="https://i.imgur.com/2oupp6h.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/s6kgtq9i0xqklh8/cvd-bypass_shell.php/file">WSO NG Bypass</a>
 <img src="https://imgur.com/XV53zev.png" alt="beruangsalju profile">
   
 # <a href="https://www.mediafire.com/file/r9pgo17mrgabdxx/wsoxenc-bypass_shell.php/file">WSOX ENC Bypass</a>
@@ -841,6 +844,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/llbt4f48wqz6hv1/web-console.php/file">Web Console</a> 
 <img src="https://i.imgur.com/HuuLSCw.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/fxqxie2vdfh9crw/webroot.php/file">WebRoot</a> 
+<img src="https://i.imgur.com/3qL06aY.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/2z4thcsprlhhss5/xcode.php/file">X-code Shell Backdoor</a> 
 <img src="https://i.imgur.com/XJ2P7vz.png" alt="beruangsalju profile">
