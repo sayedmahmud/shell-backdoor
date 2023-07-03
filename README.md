@@ -434,6 +434,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/mxwciflp5cvnoyz/lolz.php/file"> L0LZ666H05T </a>
 <img src="https://i.imgur.com/o5oGCy3.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/gggo6gzbav4nx24/linuxcode.php/file"> LinuxCode </a>
+<img src="https://i.imgur.com/2vekxHH.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/l4nn9vm1qqgogww/omestpriv8-V2_minishell.php/file">.: M 1 N 1 :.</a>
 <img src="https://imgur.com/J7RqIMu.png" alt="beruangsalju profile">
   
