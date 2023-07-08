@@ -149,6 +149,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/4vb520l6za0cpo6/berantakan-v-1.2.php/file">Berantakan Bypass</a> 
 <img src="https://i.imgur.com/nZLW7cM.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/jsoo2qvkgaqdyt2/bucin.php/file">Bucin</a> 
+<img src="https://i.imgur.com/GOZs8gU.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/6poo03utd1lcr7u/con7ext-v2.php/file">Con7ext v.2</a>
 <img src="https://imgur.com/IEZQnwm.png" alt="beruangsalju profile">
 
@@ -901,6 +904,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/jez1mwzwaw7ob7k/z0z.php/file"> xNot_RespondinGx </a> 
 <img src="https://i.imgur.com/Iqc5U7p.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/dwblaiajvdsl4cc/xsec.php/file"> XploitSec-ID </a> 
+<img src="https://i.imgur.com/2xCIOOQ.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/18uq3okfng7os64/zerotwo.php/file">ZeroTwo</a> 
 <img src="https://i.imgur.com/OaPU1mz.png" alt="beruangsalju profile">
