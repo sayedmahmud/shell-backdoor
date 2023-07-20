@@ -926,6 +926,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/dwblaiajvdsl4cc/xsec.php/file"> XploitSec-ID </a> 
 <img src="https://i.imgur.com/2xCIOOQ.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/j3w8ges2j06mqb7/x0rg.php/file"> x0rg </a> 
+<img src="https://i.imgur.com/IktudaF.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/18uq3okfng7os64/zerotwo.php/file">ZeroTwo</a> 
 <img src="https://i.imgur.com/OaPU1mz.png" alt="beruangsalju profile">
 
