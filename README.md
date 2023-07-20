@@ -158,6 +158,12 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/86gsimeodfgwehi/bypass_litespeed.php/file">Bypass Litespeed</a> 
 <img src="https://i.imgur.com/crGH28F.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/5665poxq5svwn2w/bloodsecv4.php/file">BloodSec Bypass</a> 
+<img src="https://i.imgur.com/FQNhTa3.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/k786btrcaipjg44/by.php/file">Bypass Attack Shell</a> 
+<img src="https://i.imgur.com/478DykR.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/6poo03utd1lcr7u/con7ext-v2.php/file">Con7ext v.2</a>
 <img src="https://imgur.com/IEZQnwm.png" alt="beruangsalju profile">
 
