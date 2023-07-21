@@ -425,6 +425,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/4w3g3xhmn051p7p/ironshell.php/file">IronShell</a>
 <img src="https://i.imgur.com/ZvOsJeC.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/u10qu9h8yx1f9pe/isc.php/file">Indonesian Silent Code</a>
+<img src="https://i.imgur.com/OE7OERx.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/dzu23mqxj6qp87r/jca.php/file">Java Cyber Army</a>
 <img src="https://i.imgur.com/zaWTuMH.png" alt="beruangsalju profile">
 
@@ -436,6 +439,12 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/p4au0ck29bbb46s/jshell.php/file">JavCode v2</a>
 <img src="https://i.imgur.com/GtHdSij.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/qh3ot27dcchrj7y/jackal.php/file">Jackal</a>
+<img src="https://i.imgur.com/WR2vbnw.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/shmqonwjwbhyg57/jkt48.php/file">Jkt48</a>
+<img src="https://i.imgur.com/X1J1jNT.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/qvk9hn9xa047ikx/k2ll33d.php/file">k2ll33d</a>
 <img src="https://i.imgur.com/J4QJF0K.png" alt="beruangsalju profile">
@@ -665,6 +674,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/i6jg4v63ip2s4r1/priv8shell.php/file">Priv8Shell</a>
 <img src="https://i.imgur.com/fhJoyvb.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/734rz62fu3jtxge/priv9shell.php/file">Priv9Shell</a>
+<img src="https://i.imgur.com/2jyfToB.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/wle2irf1mu7ax7f/qey.php/file">QeyFrQ</a>
 <img src="https://i.imgur.com/4nH3ijv.png" alt="beruangsalju profile">
 
@@ -784,6 +796,12 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/chfmnleas04i47n/scmd2.php/file">shutdown57 ( CMD 2 )</a>
 <img src="https://i.imgur.com/erSu215.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/zht1rq9leysiz9q/simcmd.php/file">Simshell ( CMD )</a>
+<img src="https://i.imgur.com/nQwVQc7.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/tir0jwcf9bdyem2/s72.php/file">S72</a>
+<img src="https://i.imgur.com/KZLBBWg.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/viizjs2wqsu880h/troll_shell.php/file">TR0LL1N9</a> 
 <img src="https://imgur.com/kBCu1zl.png" alt="beruangsalju profile">
