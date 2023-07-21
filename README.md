@@ -776,6 +776,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/kax9v41kxu135qp/sym-bypass.php/file">Symlink Bypass</a>
 <img src="https://i.imgur.com/qOWtIlM.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/43pg66ioe9gsqft/spadepirates.php/file">Spade Shell Bypass</a>
+<img src="https://i.imgur.com/OD3lAl0.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/85p7pfii7jg2np4/spade.php/file">Spade MiniShell Bypass</a>
 <img src="https://i.imgur.com/do6doDw.png" alt="beruangsalju profile">
 
