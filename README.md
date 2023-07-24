@@ -173,6 +173,12 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/z5u2glf6xjdmosm/beat.php/file">BeatRoot</a> 
 <img src="https://i.imgur.com/IzOsSpk.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/had89wqhg5poaba/1337.php/file">BlackScorpion</a> 
+<img src="https://i.imgur.com/K1FH16S.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/3r02w26vacvz6rs/bypassbs.php/file">BlackScorpion Bypass</a> 
+<img src="https://i.imgur.com/CXXjAOM.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/6poo03utd1lcr7u/con7ext-v2.php/file">Con7ext v.2</a>
 <img src="https://imgur.com/IEZQnwm.png" alt="beruangsalju profile">
 
@@ -328,6 +334,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 
 # <a href="https://www.mediafire.com/file/ikwn8fwk5cee2k1/fm1.php/file"> Filemanager</a>
 <img src="https://i.imgur.com/WMFV3BY.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/n94tubo0fsz7xfj/filebs.php/file"> Filemanager by BS</a>
+<img src="https://i.imgur.com/ymE3pNL.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/ctdduqf9xk7k3ph/gecko-v1-bypass_shell.php/file">Gecko v1 Bypass</a>
 <img src="https://imgur.com/iLaKtvd.png" alt="beruangsalju profile">
