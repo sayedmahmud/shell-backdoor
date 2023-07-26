@@ -263,6 +263,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/m14im6hjl2lrtio/dhanush.php/file">Dhanush</a>
 <img src="https://i.imgur.com/Hcs57kP.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/flehmm737m2s7b9/danush-2.php/file">Dhanush 2</a>
+<img src="https://i.imgur.com/oKtqs2j.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/dsacdiv2zompy3q/dive.php/file">Dive</a>
 <img src="https://i.imgur.com/fbraiH3.png" alt="beruangsalju profile">
 
