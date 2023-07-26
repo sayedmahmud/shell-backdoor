@@ -623,6 +623,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/mngj3fc6g6f82eh/ngotak.php/file">Ngotakshell</a>
 <img src="https://i.imgur.com/UXhjpSg.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/gzxbj02zz492wne/nax-shell.php/file">Naxtar</a>
+<img src="https://i.imgur.com/036FBM8.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/k5e1i535o2talt8/omest_shell.aspx/file">Omest Aspx Shell</a> ( Windows )
 <img src="https://imgur.com/1c9KnKh.png" alt="beruangsalju profile">
 
