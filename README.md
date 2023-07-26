@@ -80,6 +80,9 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/8lv1oaibq3pafm8/AlfaHun73r-shell.php/file">Alfa Hunter</a> 
 <img src="https://i.imgur.com/6SEgW30.jpg" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/j7p7be5wzkqndec/alfa-hidden.php/file">Alfa Hidden</a> 
+<img src="https://i.imgur.com/YftB5jk.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/9luy9sjioxo8p2p/b374k-0.1_shell.php/file">b374k-0.1</a>
 <img src="https://imgur.com/8iKWJo6.png" alt="beruangsalju profile">
 
