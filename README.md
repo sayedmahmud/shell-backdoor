@@ -11,7 +11,7 @@ SHELL BACKDOOR DOWNLOADER BY OMEST
 Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-black?style=flat&logo=windows&link=https://www.microsoft.com)](https://www.microsoft.com)
 [![Linux Badge](https://img.shields.io/badge/Linux-black?style=flat&logo=linux&link=https://www.linux.org)](https://www.linux.org)
 <div align="center">
-	<code><a href="https://www.paypal.com/paypalme/juliawoods000"><img title="Paypal Donation" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></code></div></br>
+	buy me a cofee<code><a href="https://www.paypal.com/paypalme/juliawoods000"><img title="Paypal Donation" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></code></div></br>
 	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=00FF00&center=true&vCenter=true&width=440&lines=+Shell+Downloader" /></h1>
 <div align="center"> 
   
