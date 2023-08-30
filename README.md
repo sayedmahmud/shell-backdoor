@@ -70,8 +70,14 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/2dunifsw4leryqu/AL.MaX.php/file">AL.MaX </a>
 <img src="https://i.imgur.com/chpMtRq.png" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/bfgp47z1zw6sbxq/alucar.php/file">Alucar</a>
+<img src="https://i.imgur.com/chpMtRq.png" alt="beruangsalju profile">
+
+# <a href="https://github.com/elliottophellia/aizawa/">Aizawa</a>
+<img src="https://i.imgur.com/hvZYh2v.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/qv97adxdb23ld8q/alfa_shell.php/file">Alfa Solevisible</a> 
-<img src="https://imgur.com/MlSmd7R.png" alt="beruangsalju profile">
+<img src="https://i.imgur.com/AMchNRa.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/mw849y06rj0evgu/alfa-rebirthhaxor_shell.php/file">Alfa Rebirth Haxor
 <img src="https://i.imgur.com/qRJyvlw.png" alt="beruangsalju profile">
@@ -634,7 +640,7 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/k5e1i535o2talt8/omest_shell.aspx/file">Omest Aspx Shell</a> ( Windows )
 <img src="https://imgur.com/1c9KnKh.png" alt="beruangsalju profile">
 
-# <a href="">0day</a> 
+# <a href="">0day ( Priv8 )</a> 
 <img src="https://i.imgur.com/bPh2d3A.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/xmnd4i0hulqakek/0byt3.php/file">0byt3</a>
@@ -654,7 +660,10 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 	
 # <a href="https://www.mediafire.com/file/ob805i90c6c9anl/oppai.php/file">Oppai</a>
 <img src="https://i.imgur.com/iZkPi3k.jpg" alt="beruangsalju profile">
-	
+
+# <a href="https://www.mediafire.com/file/7c683mpzkzuy6ry/ophellia.php/file">Ophellia</a>
+<img src="https://i.imgur.com/IRBMmgG.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/slpg9cm69b0gwgj/pwn_shell.php/file">p0wny</a>
 <img src="https://imgur.com/QHro0dL.png" alt="beruangsalju profile">
   
