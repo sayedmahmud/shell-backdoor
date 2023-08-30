@@ -71,7 +71,7 @@ Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 <img src="https://i.imgur.com/chpMtRq.png" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/bfgp47z1zw6sbxq/alucar.php/file">Alucar</a>
-<img src="https://i.imgur.com/chpMtRq.png" alt="beruangsalju profile">
+<img src="https://i.imgur.com/0ZTMz0n.png" alt="beruangsalju profile">
 
 # <a href="https://github.com/elliottophellia/aizawa/">Aizawa</a>
 <img src="https://i.imgur.com/hvZYh2v.png" alt="beruangsalju profile">
